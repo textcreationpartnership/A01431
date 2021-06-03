@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The praise of a godly vvoman A sermon preached at the solemne funerall of the right honourable ladie, the Ladie Frances Roberts, at Lanhide-rock-Church in Cornwall, the tenth of August, 1626. By Hanniball Gamon, minister of the word of God, at St. Maugan in the same countie.</title>
+            <author>Gamon, Hannibal, b. 1581 or 2.</author>
+         </titleStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01431</idno><idno type="EEBO-CITATION">99838650</idno>
+  <idno type="VID">3036</idno>
+  <idno type="EEBO-PROQUEST">2240873254</idno>
+  <idno type="STC">STC 11548</idno>
+  <idno type="STC">ESTC S102888</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838650e"/>
+            <note>(EEBO-TCP ; phase 2, no. A01431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1024:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The praise of a godly vvoman A sermon preached at the solemne funerall of the right honourable ladie, the Ladie Frances Roberts, at Lanhide-rock-Church in Cornwall, the tenth of August, 1626. By Hanniball Gamon, minister of the word of God, at St. Maugan in the same countie.</title>
+                  <author>Gamon, Hannibal, b. 1581 or 2.</author>
+               </titleStmt>
+               <extent>[8], 37, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I[ohn] H[aviland] for Iohn Grismond, and are to be sold at his shop in Ivie-Lane at the signe of the Gunne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Cf. Folger catalogue, which gives signatures: A-F⁴.</note>
+                  <note>Running title reads: A godly womans praise.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Robartes of Truro, Frances Robartes, --  Baroness, d. 1626.</term>
+               <term type="topical_term">Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2012-11 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2013-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3036:1"/>
+            <pb facs="tcp:3036:1"/>
+            <p>THE PRAISE OF A GODLY VVOMAN.</p>
+            <p>A Sermon preached at the Solemne Fu<g ref="char:EOLhyphen"/>nerall of the Right Honourable Ladie, the Ladie FRANCES ROBERTS, at <hi>Lanhide-rock-Church</hi> in <hi>Cornwall,</hi> the tenth of August, 1626.</p>
+            <p>By HANNIBALL GAMON, Minister of the word of God, at S<seg rend="sup">t</seg>. <hi>Maugan</hi> in the same Countie.</p>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 4.5.</bibl>
+               <p>Therefore iudge nothing before the time, vntill the Lord come, who will bring to light the hidden things of darknesse, and will manifest the counsells of the hearts, and then shall euery man haue praise of God.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Galath.</hi> 3.28.</bibl>
+               <list>
+                  <item>There is Neither Iew nor Greeke,</item>
+                  <item>There is Neither Bond nor Free,</item>
+                  <item>There is Neither Male nor Female, for yee are all one in Christ Iesus.</item>
+               </list>
+            </q>
+            <q>
+               <bibl>
+                  <hi>S<seg rend="sup">t</seg>. Hierom. Eustoch.</hi>
+               </bibl>
+               <p>—In seruitute Christine quaquam Differentia sexuum valet, sed mentium.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem ad Principiam.</hi>
+               </bibl>
+               <p>Non faciovllam inter Sanctas Foeminas Differentiam, quod Nonnulli inter Sanctos Viros &amp; Eccles<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arum Principes, stultè sacere consueuerunt.</p>
+            </q>
+            <p>LONDON, Printed by <hi>I. H.</hi> for <hi>Iohn Grismond,</hi> and are to be sold at his shop in <hi>Ivie-Lane</hi> at the signe of the Gunne. 1627.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:3036:2"/>
+            <pb facs="tcp:3036:2"/>
+            <head>TO THE TRVLY NOBLE IOHN ROBERTS, Son and Heire to the Right Ho<g ref="char:EOLhyphen"/>nourable RICHARD <hi>Lord</hi> ROBERTS of <hi>Truro:</hi> the Vnualuable Riches of sincere Grace here, and of Eter<g ref="char:EOLhyphen"/>nall Glory hereafter.</head>
+            <opener>
+               <salute>HONOVRABLE SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it bee true (which a worthy Diuine<note n="a" place="margin">M<seg rend="sup">r</seg>. <hi>Bolton</hi> Disc. <hi>of true</hi> Happi<g ref="char:EOLhyphen"/>nesse, p. 61.</note> obserueth) that formall Hypo<g ref="char:EOLhyphen"/>crites are heartned and hardned in their lewd courses &amp; false conceits of happi<g ref="char:EOLhyphen"/>nesse, when they heare more infamous Sin<g ref="char:EOLhyphen"/>ners than themselues, gloriously and flatte<g ref="char:EOLhyphen"/>ringly commended at their Deaths; yet we
+<pb facs="tcp:3036:3"/>need not feare any such bad effect by the Funerall-commendation of Gods true Saints; because the publike Testimonie of their iust Praises doth not onely make the wicked more inexcusable, and the Glory of Gods Graces shine farre brighter to Posteri<g ref="char:EOLhyphen"/>tie; but also enkindleth in the hearts of the godly a greater fire of Zeale for imitation. These are some of the Ends, why it hath euer been and is still an vnreproueable Cu<g ref="char:EOLhyphen"/>stome in Gods Church, that the Godly should be <hi>Marked</hi>
+               <note n="b" place="margin">
+                  <hi>Psalm.</hi> 37.37. <hi>Deut.</hi> 34.7, 10, 11.12. <hi>Hebr.</hi> 3.2. <hi>&amp;</hi> 11. <hi>cap.</hi>
+               </note> and <hi>Honoured</hi>
+               <note n="c" place="margin">2 <hi>Chron.</hi> 32.33.</note> at their Deaths, as <hi>Hezekiah</hi> was by all <hi>Iudah</hi> &amp; <hi>Ie<g ref="char:EOLhyphen"/>rusalem: Valentinean, Satyrus</hi> and <hi>Theodosius</hi> by Saint <hi>Ambrose</hi>
+               <note n="*" place="margin">S. Ambr. tom. <hi>3.</hi>
+               </note>: <hi>Basil, Gregory</hi> and <hi>Gor<g ref="char:EOLhyphen"/>gonia</hi> by <hi>Nazianzen</hi>
+               <note n="''" place="margin">Greg. Nazian. Orat. <hi>30.28.25.</hi>
+               </note>: <hi>Nepotian, Paula</hi> and <hi>Marcella</hi> by S. <hi>Ierom</hi>
+               <note n="†" place="margin">S. Ierom. Ad Heliod. Ad Eustoch. Ad Princip. Ad Ocean.</note>. Had not their Holy Liues and Happie Deaths beene published by such vnpartiall Pens, wee should haue bin ignorant now of many excellent Cour<g ref="char:EOLhyphen"/>ses of sanctified Men and Women, of many comfortable workings of the Holy Ghost in them, and should haue wanted many inflaming Motiues to follow their religious steps. Vpon this consideration I was bold to commend vnto Gods people the more
+<pb facs="tcp:3036:3"/>than Ordinary passages of your Honoura<g ref="char:EOLhyphen"/>ble Mothers Holy Life and Death: where<g ref="char:EOLhyphen"/>in I haue as a Christian spoken the truth of a Christian, that is, (as Saint <hi>Ierom</hi>
+               <note n="d" place="margin">T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stor le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um cui il<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ser<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uit &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> se<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ire <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> utramq. in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ni <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere; <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Christicanu d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sti<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> qu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t vera pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f r<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> est, Histori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m scribere non P ne g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>cum. S. Ier<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, Epitaph. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uloe.</note> pro<g ref="char:EOLhyphen"/>testeth in a like case) made a true Narrati<g ref="char:EOLhyphen"/>on; not a Vain-glorious Panegyrick. Let Poets and Oratours praise those women, which <hi>Poppaea</hi>-like<note n="e" place="margin">Poppa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cun<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lia fuêre <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honestum animum. Tacit. Annual. l. <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note>, are graced with all o<g ref="char:EOLhyphen"/>ther things sauing a Gracious Heart: Let them commend their Wit, Wealth, Beautie, Nobilitie, and other Gifts of Fortune (as they call them) in stead of Vertues<note n="f" place="margin">Laudauit ipse Ne<g ref="char:EOLhyphen"/>ro apud rostra for<g ref="char:EOLhyphen"/>mam <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius &amp; quòd diuinae formae pa<g ref="char:EOLhyphen"/>rens fuisset, aliaque fortunae munera pro Virtutibus. Id. Annal l. <hi>16.</hi>
+               </note>. Wee the Ministers of Christ, and Stewards of the Mysteries of God, must adorne none with the Honourable Attributes of Heauenly Praise; but such as are truly beautified, en<g ref="char:EOLhyphen"/>riched, and ennobled with the Purity and Power of Gods Feare in their Humble Soules<note n="*" place="margin">
+                  <hi>Esai.</hi> 61.3.</note>. This praise the Lord will Pro<g ref="char:EOLhyphen"/>sper<note n="g" place="margin">
+                  <hi>Eccles.</hi> 15 10.</note>, which is vttered in that <hi>Wisdome</hi>
+               <note n="h" place="margin">
+                  <hi>Prou.</hi> 9.10.</note>, whereof the <hi>Feare of the Lord is the begin<g ref="char:EOLhyphen"/>ning.</hi> But for the Saints themselues: I dare say with Saint <hi>Augustine</hi>
+               <note n="i" place="margin">
+                  <hi>Epist.</hi> 125 where S. <hi>Augustine</hi> refu<g ref="char:EOLhyphen"/>seth to commend vnto a wicked Husbād his god<g ref="char:EOLhyphen"/>ly wife that was dead, not onely because she desi<g ref="char:EOLhyphen"/>red not his praise, saying: <hi>Laudem ab homin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am illa non quaerit, imitationem verò t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a tantum quaerit eti<g ref="char:EOLhyphen"/>am defuncta, quantum te dilexit etiam dissimilem viua;</hi> but also because her Husband loued Her not, which he proueth thus: <hi>Nam utiq si amares, cum illa esse post mortem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esider<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, quod profectò non eris, si qualis es, talis eris.</hi>
+               </note>, that they desire more the Imitation, than the Commendati<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:3036:4"/>of their vertues: and therefore to tell you the truth (as the same Father doth his friend) you should neuer haue heard mee commend this deceased Lady, but in hope, that Gods Graces in Her might by this meanes, suruiue in your religious Imitation, and not only in you and all them that are of Her bloud; but also in all them that haue heard or shall reade this Sermon. This is all the gaine I looke and pray for, that Gods<note n="k" place="margin">
+                  <hi>Ier.</hi> 23.22, 28. 1 <hi>Pet.</hi> 4.11. <hi>Tit.</hi> 2.8. 2 <hi>Tim.</hi> 2.15. 1 <hi>Tim.</hi> 4.13. <hi>&amp;</hi> 6.3.</note> word, which I haue faithfully alled<g ref="char:EOLhyphen"/>ged (not without some Illustrations (I con<g ref="char:EOLhyphen"/>fesse) borrowed from the holy Fathers<note n="l" place="margin">—Ingenuo pudo<g ref="char:EOLhyphen"/>re qui ornabat aeta<g ref="char:EOLhyphen"/>tem, quid cuius es<g ref="char:EOLhyphen"/>set, confiteri—Illud (<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ebat) Tertullia<g ref="char:EOLhyphen"/>ni, istud Cypriani, hoc Lactantij, illud Hilarij est. Sic Mi<g ref="char:EOLhyphen"/>nutius Foelix, ita Victorinus, in hunc modum est locutus Arnobius. S. Ierom. ad Heliodor. de Ne<g ref="char:EOLhyphen"/>potian.</note>, whereof I need not to be ashamed) may be constantly practised by vs all. For when all is done and said, assure your selfe (Deare Sir) it is only the Life of Grace, the Grace of the <hi>Feare of the Lord</hi> can truly Honour you, or any vpon earth, sweetly comfort you at your Death, and eternally Glorifie your Soule and Bodie in Heauen. Abandon then I beseech you in the name of Christ<note n="m" place="margin">2 <hi>Thess.</hi> 3.6. 2 <hi>Tim.</hi> 2.19. <hi>Prou.</hi> 4.14. 1 <hi>Cor.</hi> 5.11. <hi>Ephes.</hi> 5.11. <hi>Psalm.</hi> 26.4, 5. <hi>&amp;</hi> 119.32, 36, 128. 2 <hi>Chron.</hi> 19.2. <hi>&amp;</hi> 20.37.</note>, all iniquitie, and all workers of iniquitie, yea abominate the sweetest sin, to which your youthfull affections are most endeared, else you will neuer be able to encline and en<g ref="char:EOLhyphen"/>large
+<pb facs="tcp:3036:4"/>them to the pursuit and practise of so excellent and Glorious a Grace as the <hi>Feare of the Lord;</hi> because this godly Feare and the impenitent Allowance of any lust, is as in<g ref="char:EOLhyphen"/>compatible as Heauen and Hell: so that if you should hate to be diuorced from your Bosome-sin whatsoeuer it be (which God forbid) you could haue no true right and interest to the precious promises of this and of that other life<note n="n" place="margin">1 <hi>Tim.</hi> 4.8</note>. Thinke on this continu<g ref="char:EOLhyphen"/>ally, and hold it your greatest Honour, the Noblest imployment of your Soule, as it is indeed, to keep your selfe (as a King<note n="o" place="margin">
+                  <hi>Psal.</hi> 18.23.</note> did before you.) from your iniquitie. <hi>Quod si tu (quod procul absit) nolueris, ego liber ero. Epistola, immo concio me haec mea, cum lecta fuerit, absoluet</hi>
+               <note n="p" place="margin">S. Ierom. ad Ca<g ref="char:EOLhyphen"/>storin. Materte<g ref="char:EOLhyphen"/>ram.</note>. And so I rest, being mind<g ref="char:EOLhyphen"/>full of your Vertues,</p>
+            <closer>
+               <dateline>
+                  <hi>Saint Maugan</hi>
+                  <date>
+                     <hi>the</hi> 19. <hi>August</hi> 1626.</date>
+               </dateline>
+               <signed>Yours in all Christian Deuotion, and heartiest prayer to God for you, <hi>HANNIBAL GAMON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:3036:5"/>
+            <pb n="1" facs="tcp:3036:5"/>
+            <head>THE PRAISE OF A Godly Woman.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. 31.30.</hi>
+                  </bibl>
+                  <p>—But a woman that feareth the Lord, shee shall be praised.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">P</seg>Raise is a Debt (saith <hi>Gregory Nazianzen</hi>
+               <note n="a" place="margin">
+                  <hi>Orat.</hi> 25. <hi>fol.</hi> 439. <hi>Rom.</hi> 13.7, 8.</note>) and it must be paid, not to men alone, but to women also; yet not to euery woman, be shee neuer so noble, wittie, wealthy or faire<note n="b" place="margin">Non possumus re<g ref="char:EOLhyphen"/>prehendere diuini artificis opus; sed quem delectat c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>poris pul<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tudo, multo magis illa de<g ref="char:EOLhyphen"/>lectet venustas, quae ad imaginem Dei est intus, non foris comptior. S. Ambr. Instit. Virg. c. <hi>4.</hi> Prou. <hi>11.22.</hi> Eccle. The Diuision. <hi>11.2.</hi> —Homo igi<g ref="char:EOLhyphen"/>tur mihi non t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m vultu quam assectu admiracand emineat atque excellat: vt in his laudatur, in quibus etiam Deus prophetico iudicio laudatur. de quo scriptum est Psal <hi>66.5.</hi> Terribilis in consili<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> super filios hominum; cuius opera coram Deo luceant, qui bona iugibus operibus facta contexat. Id. ib. cap. <hi>3.</hi>
+               </note>, vn<g ref="char:EOLhyphen"/>lesseshe be godly with<g ref="char:EOLhyphen"/>all: For <hi>fauour is dece<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>full, and beautie is vaine; but a woman that feareth the Lord, shee shall be praised.</hi>
+            </p>
+            <p>A promise this is and affirmatiue, and an affir<g ref="char:EOLhyphen"/>matiue promise hath two parts in it. The first is the Partie to whom it is made, and shee is <hi>Multer
+<pb n="2" facs="tcp:3036:6"/>timens Dominum, A woman that feareth the Lord,</hi> which is also the reason why she shall be praised: euen because she is <hi>a woman fearing the Lord.</hi> The second is the thing promised, and that is <hi>Laudabi<g ref="char:EOLhyphen"/>tur, she shall be praised.</hi>
+            </p>
+            <p>In the former, <milestone type="tcpmilestone" unit="unspecified" n="I"/> it is not enough that she is a wo<g ref="char:EOLhyphen"/>man, because euery woman is not <hi>Timens,</hi> one that <hi>Feareth,</hi> nor sufficient that she <hi>Feareth;</hi> because e<g ref="char:EOLhyphen"/>uery woman that feareth is not <hi>Timens Dominum,</hi> one <hi>that feareth the Lord;</hi> but <hi>she</hi> that <hi>shall be praised,</hi> is all three. 1. A woman by nature<note n="c" place="margin">Naturale vocabulū est Faemina. natura<g ref="char:EOLhyphen"/>lis vocabuli genera<g ref="char:EOLhyphen"/>le, Mulier.—Tert. de Virg. Veland. cap <hi>4.</hi>
+               </note>, where the weaker her sex is, the more shee shall be commen<g ref="char:EOLhyphen"/>ded. 2. By Grace<note n="d" place="margin">Aliud est Time<g ref="char:EOLhyphen"/>re simpliciter, aliud Timere Deum—quippe timere &amp; amare simpliciter prolata, affectione: cū additameto autē virtutes significāt. Simplices nempe affectiones insunt naturaliter nobis tanquam ex nobis, Additamenta ex Gratiâ. S. Bern. de Grat. &amp; lib. Arb.</note>, <hi>a woman that feareth,</hi> where the continuall act of this Fearing is required. 3. <hi>That feareth the Lord,</hi> where the right Obiect of her continuall feare is limited.</p>
+            <p>And in the latter we are to consider; <milestone type="tcpmilestone" unit="unspecified" n="II"/> First, to what matters, <hi>Laudabitur,</hi> her praise will reach, and in what respect to <hi>Ipsa</hi> Her person. Then second<g ref="char:EOLhyphen"/>ly, When <hi>she shall be praised;</hi> not for the present, perhaps, no more than she hath beene heretofore; yet <hi>Laudabitur,</hi> the time will come when <hi>she shall be praised,</hi> and then too her praise shall so be, that it shall be still. Thirdly, of whom shee shall haue praise, for <hi>Laudabitur</hi> is an action, and must bee done of some agent, therefore we must finde who shal praise her, and they will fall out to be her Hus<g ref="char:EOLhyphen"/>band and her Children (if she haue them<note n="e" place="margin">Mulier enim nō naturâ nomen est vxoris, sed vxor co<g ref="char:EOLhyphen"/>ditione nomen est mulieris. Tert. ib. c. <hi>5.</hi> Gen. <hi>2.23.</hi> Haec vocabitur mulier, quoniam de viro suo sumpta est: Quia sumpta est (inquit) de viro suo, non quia virum experta—Non enim corruptelae, sed sexus vocabulum est. Gal. <hi>4.4.</hi> Luke <hi>1.28.</hi> S. Ambr. ibid. c. <hi>5.</hi>
+               </note>) and if they faile in this dutie, then the godly shall praise her; and if they cease to doe it, then her own
+<pb n="3" facs="tcp:3036:6"/>workes shall praise her, yea rather than faile, God himselfe shall praise her, which is best of all. So sure she is to be praised, not for the present onely,<note place="margin">A Promise, and Motiue.</note> but for euer. And so this Text besides that it is a <hi>Promise,</hi> it is also a <hi>Motiue</hi> to stirre vs vp to feare God, that so we also may haue true and eternall praise of God. It is both, and both waies wee to haue vse of it, as of a <hi>Promise,</hi> and as of a <hi>Motiue:</hi> both these waies at once; <hi>A woman that feareth the Lord she shall be praised.</hi>
+            </p>
+            <p>A weake sex<note n="f" place="margin">1 <hi>Pet.</hi> 3.7. <hi>Ier.</hi> 50.37. <hi>Nah.</hi> 3.13. <hi>Gal.</hi> 3.27, 28.</note> to beginne with, <milestone type="tcpmilestone" unit="unspecified" n="I"/> and yet being strengthned by Grace<note n="g" place="margin">—Ex parte natu<g ref="char:EOLhyphen"/>rae (nisi sit fortitu<g ref="char:EOLhyphen"/>de maioris gratiae) facilius incarnatur ad malum sexus for<g ref="char:EOLhyphen"/>mineus. Bonau. l. <hi>2.</hi> d. <hi>21.</hi> q. <hi>3.</hi> p. <hi>18.</hi>
+               </note>, no impediment;<note place="margin">The partie that shall be praised.</note> but that a woman as wel as a man may feare the Lord, and haue praise of him, and so become the partie who shall, and one Reason too, why <hi>shee shall be praised.</hi>
+            </p>
+            <p>For a woman must be more good than nature, art, policie, preferment can make her, else shee is not good enough for Gods Spirit to praise her. He commends neither men nor women conside<g ref="char:EOLhyphen"/>red in their pure Naturalls only, in that estate of corruption, they all heare alike to their disgrace, that they are <hi>All vnder sinne</hi>
+               <note n="h" place="margin">
+                  <hi>Rom.</hi> 3.9.</note>, <hi>All come</hi>
+               <note n="i" place="margin">
+                  <hi>Rom.</hi> 3.23.</note>
+               <hi>short of the glory of God,</hi> and are <hi>All the children of</hi>
+               <note n="k" place="margin">
+                  <hi>Ephes.</hi> 2.3.</note>
+               <hi>wrath,</hi> be<g ref="char:EOLhyphen"/>cause they <hi>Are without all feare of God</hi>
+               <note n="l" place="margin">
+                  <hi>Rom.</hi> 3.18.</note>.</p>
+            <p>By nature then both sexes are alike faultie, alike discōmendable in Gods sight, and so they should be in ours. We should not dispraise women more than men, for the sex sake only (as some doe<note n="m" place="margin">Eurip. Plutarc. de Tranquilit Mu<g ref="char:EOLhyphen"/>lier quantibuis pro<g ref="char:EOLhyphen"/>ba, Mulier tamen est.</note>) be<g ref="char:EOLhyphen"/>cause they haue as noble soules as men, for<note n="n" place="margin">Anima enim sex<g ref="char:EOLhyphen"/>um non habet.—De Virg. som. <hi>1.</hi> lib. <hi>3.</hi> fol. <hi>99.</hi>
+               </note> soules haue no sexes, (as Saint <hi>Ambrose</hi> saith) nor praise women for the endowments of the flesh onely (as
+<pb n="4" facs="tcp:3036:7"/>other some doe<note n="o" place="margin">Cornel. Agrip. d. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obilit. faemine<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sexus. Bocacius de c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ris mulieribus.</note>) vnlesse they be adorned also with the sauing Graces of the Spirit, whereof a chiefe one is not noble birth, great wealth, excel<g ref="char:EOLhyphen"/>lent wit, or rare beautie; but <hi>the feare of the Lord,</hi> his treasure<note n="*" place="margin">
+                  <hi>Es.</hi> 33.6.</note>. This godly feare is that, that makes a Woman in relation<note n="p" place="margin">Caiet. in loc.</note> to God, praise-worthy. And good reason it should do so, if we regard the weaknesse of a woman, in whom so excellent a Grace as <hi>the feare of the Lord,</hi> is found, and the No<g ref="char:EOLhyphen"/>blenesse of fearing the Lord, being so found.</p>
+            <p>First, a womans weaknesse is naturally<note n="q" place="margin">Naturaliter eti<g ref="char:EOLhyphen"/>am ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cti <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t inter carnem et spi<g ref="char:EOLhyphen"/>ritū mulieris quam viri: quantò enim caro eius infirmior, &amp; spiritus minus promptus, tātò pug<g ref="char:EOLhyphen"/>na difficilior— &amp; victoria commēda<g ref="char:EOLhyphen"/>bilior. Pet. Bles. ser. <hi>33.</hi> p. <hi>420.</hi> Timeo autem ne fortè viri à virginibus iudi<g ref="char:EOLhyphen"/>centur: Compara<g ref="char:EOLhyphen"/>tione tamē non Au<g ref="char:EOLhyphen"/>ctoritate: quia per duo tantum scilicet: per Fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gili<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ē car<g ref="char:EOLhyphen"/>nis &amp; Ignorantiam mentis putobā, &amp;c. ser. <hi>35.</hi> p. <hi>428.</hi>
+               </note> greater than the mans, and therefore by how much her flesh is weaker, and her spirit lesse willing, by so much the combate she hath, is more difficult, and the victory she gets, more commendable. I know a man (<hi>Blesensis</hi> by name) that thought two things should excuse him at the dreadfull day of iudge<g ref="char:EOLhyphen"/>ment, the Frailty of his flesh, and the Ignorance of his minde; but then he feared lest God would iudge men by womē, whose sex being more fraile, more ignorant than that of mens, were for all that oftentimes more holy, more deuout than many men.</p>
+            <p>Secondly, the <hi>Feare of the Lord</hi> is the truest No<g ref="char:EOLhyphen"/>bilitie (as <hi>Gerson</hi>
+               <note n="r" place="margin">Tractat. de No<g ref="char:EOLhyphen"/>bilitate, part. <hi>2.</hi> p. <hi>52</hi> lit. E. Et Greg. Naz. Orat. <hi>13</hi> tom. <hi>1.</hi> fol. <hi>352.</hi>
+               </note> proues) the noblest grace that can ennoble and extoll a man or a woman. Other naturall, ciuill, and meerely morall excellencies, perfections, and endowments a woman may haue, nay (which is neerest the point) other kindes of Feare she may haue, and yet be base, seruile, cur<g ref="char:EOLhyphen"/>sed as <hi>Iezebel</hi>
+               <note n="*" place="margin">2 <hi>Kings</hi> 9.34. <hi>Act.</hi> 24.25. 1 <hi>Ioh.</hi> 4.18.</note>, not praise-worthy, as namely, if she feare men<note n="†" place="margin">
+                  <hi>Matth.</hi> 10.28. <hi>Es.</hi> 51.12.</note>, or what else besides more than
+<pb n="5" facs="tcp:3036:7"/>God, or not for God, (as Saint <hi>Bernard</hi>
+               <note n="s" place="margin">Convertatur ad ipsum etiam Timor tuus, quia peruer<g ref="char:EOLhyphen"/>sus est timor omnis, quo metuis al quid praeter eum aut non propter eum. S. Ber. in cap. Ieiun. ser. <hi>2.</hi>
+               </note> limits) or if shee feare God as a Iudge, in respect of his punishments only<note n="t" place="margin">Quid magnū est, poenā t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mere? Quis enim nō timet? quis Latro, quis s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lera<g ref="char:EOLhyphen"/>tus, quis nefarius? &amp;c. S. August. de Verb. A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost. s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>15.</hi> fol. <hi>332.</hi> tom. <hi>10.</hi>
+               </note>, &amp; not as a Father for loue of his goodnesse, and from an hatred of wickednesse, or if she haue cast off the feare of the Lord, which shee hath seemed to haue, or if shee puts off his <hi>Feare</hi> from time to time, and continues not in it.</p>
+            <p>Looke we then first to the Obiect of the <hi>Lauda<g ref="char:EOLhyphen"/>ble womans feare,</hi> that he whom she feareth be the Lord, in respect of his Mercy and Iustice both; then to the continuall employment of her <hi>Feare,</hi> not one that hath feared him, or will feare him; but one that doth feare him for the present, and continueth therein, else shee is not a woman <hi>Ti<g ref="char:EOLhyphen"/>mens Dominum, Fearing the Lord,</hi> and so not wor<g ref="char:EOLhyphen"/>thy to be <hi>praised.</hi>
+            </p>
+            <p>First then (that the Obiect may be right) the<note n="u" place="margin">
+                  <hi>Deut.</hi> 10.12. 2 <hi>King.</hi> 17.36. <hi>Luk.</hi> 12.5. <hi>Es.</hi> 8.13. <hi>Mal.</hi> 1.6.</note>
+               <hi>Lord is her feare,</hi> who shal be praised. <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <note place="margin">The Obiect of her feare.</note> For if He be not, all exquisitenesses besides are nothing in com<g ref="char:EOLhyphen"/>parison; and if He be, all sufficiencies (remarkable in that sex) are improued, and all Duties (obserue<g ref="char:EOLhyphen"/>able in the feare of the Lord) are practised. To see this the better, let vs follow <hi>Tertullians</hi>
+               <note n="x" place="margin">Loquacitas in oe<g ref="char:EOLhyphen"/>d ficatione nulla turpis, si quando turpis. Itaque si d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aliquo bono sermo est, res <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ostulat con<g ref="char:EOLhyphen"/>trarium quoque bo<g ref="char:EOLhyphen"/>ni recensere. Quid enim sect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndum sit, magis illummabis, si quod vitandū sit, p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e digesseris. Tertul. de Patien. c. <hi>5.</hi> tom. <hi>2.</hi>
+               </note> rule, and oppose one against another, a vessell of dishonour against a vessell of honour, a woman not Fearing, against a woman Fearing the Lord.</p>
+            <p>She that fears not the Lord, sets light by Gods anger and her Husbands<note n="y" place="bottom">Esth. <hi>1.12, 17, 20, 22</hi> Eccl. <hi>26.26.</hi> Es. <hi>36.9.</hi> &amp; <hi>3.16.</hi> Prou. <hi>30.33.</hi> Eccles. <hi>25.13.</hi> &amp; ali<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sim. Vbi verò timor Dei non est, ibi dissolutio vitae est. S. Aug. de Temp. ser. <hi>213.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. <hi>10.</hi>
+               </note>, nor caring whether they bee pleased or displeased. Shee neglects to plant the feare of the Lord in her childrens hearts,<note place="margin">A womā fear<g ref="char:EOLhyphen"/>lesse of God.</note>
+               <pb n="6" facs="tcp:3036:8"/>chusing rather to be an example of wickednesse vnto them, and to misplace them in mariage for sinister respects. She brings want of things neces<g ref="char:EOLhyphen"/>sary to her family by her wastefulnesse, brauery, and idlenesse. She contemnes her naturall and le<g ref="char:EOLhyphen"/>gall kindred, lifts vp her selfe aboue her equalls, disdaines her inferiours, dishonours her place by an ouer-loftie or an ouer-base and contemptible behauiour in the same. She alienates the hearts of Gods people from her, by neglecting the offices of courtesies and helpfulnesse. She declines and vnderualewes the most searching meanes of Sal<g ref="char:EOLhyphen"/>uation, the Word, Prayer, Conference, Repen<g ref="char:EOLhyphen"/>tance, Meditation, Sacraments; in a word (accor<g ref="char:EOLhyphen"/>ding to Saint <hi>Ambroses</hi>
+               <note n="z" place="margin">Aliud est timere quia peccaueris, a<g ref="char:EOLhyphen"/>liud timere ne pec<g ref="char:EOLhyphen"/>ces. Et ibi est for<g ref="char:EOLhyphen"/>mido de supplicio, hic solicitudo de praemio. Epist. <hi>84.</hi> tum. <hi>3.</hi> Est quem ti<g ref="char:EOLhyphen"/>mor Dei ligat, qui non expauescit ad vultus hominū, sed ad memoriam ge<g ref="char:EOLhyphen"/>hennalium tormen<g ref="char:EOLhyphen"/>torum. Et hic qui<g ref="char:EOLhyphen"/>dem peccare non metuit, sed ardere. S. Bern. de Tripl. Coberent: Vincul. &amp;c. Es. <hi>33.14.</hi>
+               </note> Distinction) she feares hell torments, because shee hath sinned, but shee feares not Gods displeasure, lest she should sinne, and therefore shee liues and dies in worldlinesse, wantonnesse, pride, hatred, variance, emulations, wrath, strife, reuenge, impatiencie, gluttonie, or some such darling sinne: and tell me (Beloued) if such a woman not beautified and adorned with re<g ref="char:EOLhyphen"/>ligion and the feare of the Lord, be worthy to bee praised of the Lord? I am sure the ancient Fathers<note n="a" place="margin">Tertul. de Habit. Mulieb. &amp; de Cul<g ref="char:EOLhyphen"/>tu Foem. tom. <hi>2.</hi> S. Cyprian de Discipl. &amp; Hab. Virg. to. <hi>2.</hi> Greg. Naz. aduers. mulier: Ambitiosè se ornantes. to. <hi>2.</hi> S. Ephraem aduers. improbas mulieres. tom. <hi>1. if his workes.</hi> Riuet. l. <hi>3.</hi> c. <hi>21.</hi>
+               </note> declaime bitterly against her filthy heart, false haire, adulterate paintings, naked breasts, new<g ref="char:EOLhyphen"/>fangled fashions of superfluous, monstrous at<g ref="char:EOLhyphen"/>tire: &amp; the holy Scriptures<note n="b" place="bottom">2 <hi>King.</hi> 9.20, 30, 34. <hi>Es.</hi> 3.16, <hi>&amp;c. &amp;</hi> 32.9, 10, 11. 1 <hi>Pet.</hi> 3.3, 4. <hi>Matth.</hi> 5.36. <hi>&amp;</hi> 6.27. <hi>Eccles.</hi> 25.13, 19.</note> vilifie her to her face, threatning her (notwithstanding all her other or<g ref="char:EOLhyphen"/>naments
+<pb n="7" facs="tcp:3036:8"/>and excellencies of nature, art, policie, preferment,) that without this <hi>Feare of the Lord, it shall not be well with her, Eccles.</hi> 8.13. <hi>The Lord will come neare to her to iudgement, he will be a swift wit<g ref="char:EOLhyphen"/>nesse against her, Mal.</hi> 3.5. <hi>She shall leaue her memorie to be cursed</hi>
+               <note n="c" place="margin">
+                  <hi>Eccles.</hi> 23.26. <hi>Prou.</hi> 10.7.</note>, <hi>and her reproach shall not be blotted out, she shall be counted vngodly of all</hi>
+               <note n="d" place="margin">
+                  <hi>Eccles.</hi> 26.25.</note>, <hi>more bitter than death</hi>
+               <note n="e" place="margin">
+                  <hi>Eccles.</hi> 7.26.</note>. <hi>As rottennesse in her husbands bones</hi>
+               <note n="f" place="margin">
+                  <hi>Prou</hi> 12.4.</note>, <hi>As spittle</hi>
+               <note n="g" place="margin">
+                  <hi>Eccles.</hi> 26.21.</note>, yea <hi>As a Dogge</hi>
+               <note n="h" place="margin">
+                  <hi>Eccles.</hi> 26.25.</note>, and at last she shall be cast into hell fire, <hi>Salua Ventâ,</hi> without pardon from God, because (saith <hi>Tertullian</hi>
+               <note n="i" place="margin">Sic ergò &amp; ipsi, saluâ ventâ in ge<g ref="char:EOLhyphen"/>hennam detruden<g ref="char:EOLhyphen"/>tur, dum saluô me<g ref="char:EOLhyphen"/>tû peccant. De poe<g ref="char:EOLhyphen"/>nit. c. <hi>5.</hi> Reuel. <hi>21.8.</hi> &amp; <hi>22.15.</hi>
+               </note>) she hath sin<g ref="char:EOLhyphen"/>ned <hi>Saluo metû,</hi> without any feare of God.</p>
+            <p>But on the other side what personall sufficiency,<note place="margin">A womā fea<g ref="char:EOLhyphen"/>ring the Lord.</note> what singular duty is there requisite in a Woman, either in respect of God, or of her husb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, chil<g ref="char:EOLhyphen"/>dren, kindred, seruants, place, and of Gods peo<g ref="char:EOLhyphen"/>ple, which the life of Grace, the Grace of the Feare of the Lord doth not animate, aduance, and ac<g ref="char:EOLhyphen"/>complish? This godly Feare ennobleth Nobili<g ref="char:EOLhyphen"/>tie, beautifieth Beautie, enricheth wealth, teacheth wit, wisdome. She that hath this <hi>Feare,</hi> dare not for her heart, but be loath to offend her husband, and deny her inferiority<note n="k" place="margin">
+                  <hi>Gen.</hi> 3.16. <hi>Eph.</hi> 5.23.33. 1. <hi>Cor.</hi> 7.34.</note>; but be an example of godlinesse to her children<note n="l" place="margin">1 <hi>Tim.</hi> 5.10. 2 <hi>Tim.</hi> 1.5. <hi>&amp;</hi> 3.15. <hi>Tit.</hi> 2.4. <hi>Deut.</hi> 6.7.</note>, prouide things ne<g ref="char:EOLhyphen"/>cessary for her seruants<note n="m" place="margin">
+                  <hi>Prou.</hi> 31.15, 21. <hi>Matth.</hi> 8.6.</note> both in health and in sicknesse; loue her naturall and legall<note n="n" place="margin">1 <hi>Tim.</hi> 5.4. <hi>Esth.</hi> 2.7, 10. <hi>&amp;</hi> 4.4. <hi>Ruth</hi> 4.15. <hi>Exod.</hi> 18.7.</note> kindred, esteeme her equals aboue her selfe<note n="o" place="margin">
+                  <hi>Phil.</hi> 2.3. <hi>Rom.</hi> 12.10, 16.</note>, countenance and relieue her inferiours<note n="p" place="margin">
+                  <hi>Iam.</hi> 2.1. 1 <hi>Tim.</hi> 6.18.</note>, maintaine the dig<g ref="char:EOLhyphen"/>nitie of her place by all such vertues as may dis<g ref="char:EOLhyphen"/>charge the<note n="q" place="margin">
+                  <hi>Titus</hi> 2.3.</note> same; winne the affections of Gods people, to her more and more, by the offices<note n="r" place="margin">
+                  <hi>Luk.</hi> 1.40, 56. <hi>Prou.</hi> 19.6. <hi>c.</hi> 28.24. <hi>Gal.</hi> 6.10. 1 <hi>Tim.</hi> 5.10. <hi>Iob</hi> 6.14</note> of courtesies, salutations, gifts, visitations, inuitati<g ref="char:EOLhyphen"/>ons
+<pb n="8" facs="tcp:3036:9"/>and of helpfulnesse; yea she that feares God, dare not for her heart but <hi>Honour them that feare God, Psal.</hi> 15.4. but keepe her set taskes<note n="s" place="margin">
+                  <hi>Gal.</hi> 6.9. <hi>Iam.</hi> 1.19. 1 <hi>Tim.</hi> 4.13. 1 <hi>Thess.</hi> 5.17. <hi>Luk.</hi> 2.37. <hi>Ephes.</hi> 4.26. <hi>Phil.</hi> 4.5. 1 <hi>Pet.</hi> 3.4.</note> of hea<g ref="char:EOLhyphen"/>ring, reading, fasting, praying, meditating, mo<g ref="char:EOLhyphen"/>derating passionate distempers, and of all other gracious exercises, of Selfe-deniall<note n="t" place="margin">
+                  <hi>Luk.</hi> 9.23. <hi>&amp;</hi> 14.26.</note>; so that there is not any knowne<note n="u" place="margin">
+                  <hi>Psal.</hi> 18.23. <hi>&amp;</hi> 97.10. <hi>Gen.</hi> 39.9. <hi>Prou.</hi> 16.6. <hi>&amp;</hi> 8.13</note> sinne which she nourisheth, alloweth, or goeth on in, but quaketh and trem<g ref="char:EOLhyphen"/>bleth at the very first thoughts, yea motions and inclinations thereunto, as being in the sight<note n="x" place="margin">
+                  <hi>Gen.</hi> 17.1. <hi>Psal.</hi> 16.8. <hi>&amp;</hi> 116.9. <hi>Act.</hi> 10.33. 2 <hi>Cor.</hi> 2.17. <hi>Iob</hi> 34.21. <hi>Prou.</hi> 15.3. <hi>&amp;</hi> 5.21. 2 <hi>Chron.</hi> 16.9. 1 <hi>King.</hi> 17.1. Mag<g ref="char:EOLhyphen"/>na est ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tela pec<g ref="char:EOLhyphen"/>cati, Dei semper praesentiam timere. S. Aug. de Temp. serm. <hi>212.</hi> tom. <hi>10.</hi> Multum enim re<g ref="char:EOLhyphen"/>fraenat homines cō<g ref="char:EOLhyphen"/>scientia, si credamus nos in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ōspectu Dei viuere, si non tan<g ref="char:EOLhyphen"/>tum quae gerimus videri d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> super, sed etiam quae cogita<g ref="char:EOLhyphen"/>mus, aut loquimur, audiri a Deo puta<g ref="char:EOLhyphen"/>mus &amp;c. Lact. de Irâ Dei. c. <hi>8.</hi>
+               </note> of an inuisible God, vnder the perpetuall presence of his All-seeing glorious pure eye, which shee will not prouoke to anger by any sinne, for all the gold that euer the Sunne made, or shall make while it stands in Heauen<note n="y" place="margin">
+                  <hi>Es.</hi> 3.8. 1 <hi>Cor.</hi> 10.22 <hi>Psalm.</hi> 119.14 72.127.162.</note>.</p>
+            <p>This glorious description of a woman fearing the Lord, is not mine (Blessed Brethren) but the Scriptures, wherein I finde; 1. The cause of her Feare to be not Selfe-Loue<note n="a" place="bottom">2 <hi>Tim.</hi> 1.7. <hi>&amp;</hi> 3.2.</note>, but the Loue of God; not the spirit of Bondage<note n="b" place="bottom">
+                  <hi>Rom</hi> 8.15.</note>; but the Spirit of Adoption: 2. The Obiect of her feare to be not the precepts of men<note n="c" place="bottom">
+                  <hi>Es.</hi> 29.13.</note>, but the Commande<g ref="char:EOLhyphen"/>ments of God<note n="d" place="bottom">
+                  <hi>Deut.</hi> 4.10. <hi>Es.</hi> 66.2. <hi>Eccl.</hi> 12.13. <hi>Prou.</hi> 13.13. <hi>Psal.</hi> 119.161.</note>: not his Threats only<note n="e" place="bottom">
+                  <hi>Psal.</hi> 119.120. <hi>&amp;</hi> 52.6.</note>, but his Promises also<note n="f" place="bottom">2 <hi>Cor.</hi> 7.1. <hi>Heb.</hi> 4.1. <hi>Psal.</hi> 130.4.</note>: not his Anger only against sin<note n="g" place="bottom">
+                  <hi>Deut.</hi> 9.19.</note>, but his Mercy also in Christ<note n="h" place="bottom">
+                  <hi>Hos.</hi> 3.5. <hi>Psal.</hi> 33.18. <hi>&amp;</hi> 130.4.</note>: not his Presence only, as a Reuenging Iudge<note n="i" place="bottom">
+                  <hi>Ier.</hi> 5.22. <hi>Act.</hi> 10.2, 33.</note>, but his Forbearance also as a louing Father<note n="k" place="bottom">
+                  <hi>Mal.</hi> 16. <hi>Os.</hi> 3.5. <hi>Hebr.</hi> 12.9.</note>. 3. The workings of her Feare to be in the heat of temptations and af<g ref="char:EOLhyphen"/>flictions,
+<pb n="9" facs="tcp:3036:9"/>not Despairing<note n="l" place="margin">
+                  <hi>Ier.</hi> 17.17. <hi>Eccles.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.28.</note>; but Beleeuing the for<g ref="char:EOLhyphen"/>giuenesse of her sinnes, not Limiting God to the present danger; but<note n="m" place="margin">
+                  <hi>Psal.</hi> 33.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.20. <hi>Eccles.</hi> 2.7.</note> waiting for his mercy, not Distrusting his Prouidence; but hoping for Good<note n="n" place="margin">
+                  <hi>Psal.</hi> 115.11. <hi>&amp;</hi> 56.3. <hi>Eccles.</hi> 2.9</note>: not Murmuring against him; but prai<g ref="char:EOLhyphen"/>sing Him, and praying vnto Him<note n="o" place="margin">1 <hi>Cor.</hi> 10.10 <hi>Psalm.</hi> 22.23. <hi>Act.</hi> 10.2.</note>, yea (which is the proper Act of her Feare) not Louing any sin, but hating and eschewing all sin<note n="p" place="margin">
+                  <hi>Exod.</hi> 20.20. <hi>Ec<g ref="char:EOLhyphen"/>cles.</hi> 15.13. <hi>Prou.</hi> 8.13. <hi>&amp;</hi> 16.6. 2 <hi>Tim.</hi> 1.7. 1 <hi>Ioh.</hi> 4.18. <hi>Hos.</hi> 3.5. <hi>Psal.</hi> 97.10. <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi> 4.18. <hi>&amp;</hi> 2.19.</note>, not out of a slauish terrour of punishment; but chiefly be<g ref="char:EOLhyphen"/>cause it is Sinne, an Infinite euill, and because an Infinite Good God, whom she loueth (saith Saint <hi>Augustine</hi>) is offended by it, though she should ne<g ref="char:EOLhyphen"/>uer goe to Hell-fire to be punished for it<note n="*" place="margin">Verò-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hristia<g ref="char:EOLhyphen"/>nus—profic<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> per<g ref="char:EOLhyphen"/>ueniet ad tal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m a<g ref="char:EOLhyphen"/>nimu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, vt plus amet Dominum quàm ti<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at Ge<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nam: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t etiamsi dicat illi Deus, vtere del<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ise carnalibus sempi<g ref="char:EOLhyphen"/>ternis &amp; quantum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otes; pecca, nec mo<g ref="char:EOLhyphen"/>rieris, nec in Ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>nam mitteris, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed mecum tantummo<g ref="char:EOLhyphen"/>do non eris: exhor<g ref="char:EOLhyphen"/>res<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at &amp; omninò non p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cet, non iam vt in illud, quod timebat non incidat, sed ne illum quem sic amat, offendat. De Catechiz. Rudib. cap. <hi>27.</hi> tom. <hi>4.</hi> fol. <hi>912.</hi>
+               </note>.</p>
+            <p>Lastly, <milestone type="tcpmilestone" unit="unspecified" n="II"/> in the Scriptures I finde Perseuerance or Constancie<note n="q" place="bottom">
+                  <hi>Ierem.</hi> 32.39, 40. <hi>Deut.</hi> 4.10. <hi>Prou.</hi> 23.17. <hi>&amp;</hi> 14.2. 1 <hi>Tim.</hi> 2.15.</note> to be euer an inseperable Atten<g ref="char:EOLhyphen"/>dant vpon her Feare!<note place="margin">The continu<g ref="char:EOLhyphen"/>ance of her Feare.</note> For she is not one that hath not yet tasted of this sauing Grace, or else not con<g ref="char:EOLhyphen"/>tinued in the same; but she is a woman for the pre<g ref="char:EOLhyphen"/>sent, <hi>Timens Dominam, Fearing the Lord.</hi> You shall neuer finde Her otherwise, than (as God would haue her) <hi>In the feare of the Lord all the day long, Prou.</hi> 23. <hi>Fearing and keeping his Commandements al<g ref="char:EOLhyphen"/>waies, Deut.</hi> 4. <hi>Doing her Husband Good and not euill all the daies of her life,</hi> verse the 12. of this Chapter.</p>
+            <p>It is true indeed, as Feare is opposed to D ffi<g ref="char:EOLhyphen"/>dence, <hi>Luke</hi> 1. So she serues God without a Di<g ref="char:EOLhyphen"/>strustfull Feare all the daies of her life; because of Gods continuall presence with Her<note n="r" place="bottom">
+                  <hi>Matth.</hi> 28.20. <hi>Es.</hi> 43.1, 2.</note>, continuall mercy towards Her<note n="s" place="bottom">
+                  <hi>Ier.</hi> 14.9. <hi>Lam.</hi> 3.22, 23.</note>, continuall power<note n="t" place="bottom">2 <hi>Cor.</hi> 12.9. <hi>Es.</hi> 26.4. <hi>&amp;</hi> 45.24. <hi>Psal.</hi> 121. <hi>&amp;</hi> 35.24. <hi>Rom.</hi> 8.26.</note> ouer
+<pb n="10" facs="tcp:3036:10"/>Her, in Strengthening, Helping, and Vpholding Her, <hi>Esai.</hi> 41.10. But yet as Feare is opposed to Negligence, so she still feares God, lest she should be secure by reason of his Power which is inuinci<g ref="char:EOLhyphen"/>ble<note n="u" place="margin">
+                  <hi>Matth.</hi> 10.28. <hi>Deut.</hi> 28.58.</note>; of his Wisdome, which is infallible<note n="x" place="margin">
+                  <hi>Esai.</hi> 29.15, 16. <hi>Psal</hi> 50.21.</note>; of his Mercy, which is compassionate<note n="y" place="margin">
+                  <hi>Esai.</hi> 43.25. <hi>&amp;</hi> 63.9. <hi>&amp;</hi> 49.13, 15.</note>; and of his Iustice, which is inflexible<note n="z" place="margin">
+                  <hi>Esai.</hi> 42.14.</note>.</p>
+            <p>It is as true also (which <hi>Gerson</hi> and others haue obserued<note n="a" place="margin">
+                  <hi>De diuersis ten<g ref="char:EOLhyphen"/>tat. Diaboli, part.</hi> 3. M<seg rend="sup">r</seg>. <hi>Greenham</hi> 5. part, among his Rules for an Af<g ref="char:EOLhyphen"/>flicted minde.</note>) that many times a Deuout Soule is so disquieted with a slauish Feare of the Aduersary; that she feares lest she hath not any true Feare of Gods Maiestie; but yet <hi>(B. B.)</hi> say the <hi>Pelagian</hi> what hee can to the contrary, such is the Euerla<g ref="char:EOLhyphen"/>stingnesse of Gods Loue<note n="b" place="margin">
+                  <hi>Esai.</hi> 54.8, 9, 10. <hi>c.</hi> 49.15. <hi>Ier.</hi> 31.3.36. <hi>c.</hi> 33.20, 21. <hi>Ioh.</hi> 13.1. <hi>Rom.</hi> 8.38, 39. <hi>Mat.</hi> 12.20. <hi>Esai.</hi> 42.3.</note>, Mercie<note n="c" place="margin">
+                  <hi>Psalm.</hi> 103.17. 2 <hi>Sam.</hi> 7.15.</note>, and Coue<g ref="char:EOLhyphen"/>nant<note n="d" place="margin">
+                  <hi>Psal.</hi> 89.28, 34. <hi>Esai.</hi> 55.3 <hi>c.</hi> 59.21. <hi>Ier.</hi> 32.40.</note>, the Vnconquerablenesse of his Power<note n="e" place="margin">Ioh. <hi>10.29.</hi> Iude vers. <hi>24. 1</hi> Pet. <hi>1.5.</hi> Esai. <hi>26.4.</hi> Psal. <hi>80.17.</hi> Manus Dei est ista, non nostra vt non discedamus à Deo, manus, inquā eius est ista, qui dixit, Timorem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>um dabo in cor eorū &amp;c. S. Aug. de Bo<g ref="char:EOLhyphen"/>no perseuer. c. <hi>7.</hi> to. <hi>7.</hi> Ier. <hi>32.27.</hi>
+               </note>, the Immortality of his Word<note n="f" place="bottom">1 <hi>Pet.</hi> 1.23. 1 <hi>Ioh.</hi> 3.9.</note>, the Certaintie of his Promises<note n="g" place="bottom">
+                  <hi>Ephes.</hi> 1.13. <hi>Numb.</hi> 13.19. <hi>Ios.</hi> 21.45. 1 <hi>Ioh.</hi> 5.10. <hi>Hebr.</hi> 7.27. <hi>c.</hi> 11.11. <hi>Rom.</hi> 4.21. 1 <hi>Cor.</hi> 1.9.</note>, the Efficacie of Christs Spirit<note n="h" place="bottom">
+                  <hi>Esai.</hi> 59.21. <hi>Ephes.</hi> 1.13, 14. <hi>c.</hi> 4.30. <hi>Ioh.</hi> 14.16, 17. 1 <hi>Ioh.</hi> 2.27.</note>, Prayer<note n="i" place="bottom">
+                  <hi>Luke</hi> 22.32. <hi>Ioh.</hi> 17.15, 20. <hi>Rom.</hi> 8.34. <hi>Hebr.</hi> 7.25.</note>, Merits<note n="k" place="bottom">1 <hi>Pet.</hi> 1.2, 3, 4, 5. 1 <hi>Ioh.</hi> 5.4, 18.</note>, and of Faith in them<note n="l" place="bottom">1 <hi>Pet.</hi> 5.9. <hi>Ephes.</hi> 6.6. <hi>Matth.</hi> 16.18.</note>; yea such is the durable vigour of this sauing Grace of <hi>the Feare of the Lord</hi>
+               <note n="m" place="bottom">Ierem <hi>32.40.</hi> Perseuerantiam enim promisit Deus, dicens: Timor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m meum dabo in cor eorum vt à me non rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dant. Quod quid est a<g ref="char:EOLhyphen"/>liud quàm talis ac tantus erit Timor meus, quem dabo in cor eorum, vt mihi perseuerantèr adhaere<g ref="char:EOLhyphen"/>ant? Idem de Bono Perseuer. c. <hi>2.</hi> tom. <hi>7.</hi> Rom. <hi>11.29.</hi>
+               </note>, that being once rooted by God, (as Saint <hi>Augustine</hi> vrgeth) it cannot be re<g ref="char:EOLhyphen"/>moued; but through it we may perseueringly ad<g ref="char:EOLhyphen"/>here vnto God according to his promise: <hi>I will put my Feare in their hearts, that they shall not depart from me, Ier.</hi> 32.40. with <hi>Psal.</hi> 80.17. She then that truely hath this <hi>Feare,</hi> doth so feare the Lord in
+<pb n="11" facs="tcp:3036:10"/>Loue, and loue him in feare<note n="n" place="margin">Absit enim vt ti<g ref="char:EOLhyphen"/>more pereat amor, si castus est timor. S. Aug. in Psal. <hi>119</hi> tom. <hi>8.</hi>
+               </note>, that as in the midst of Gods not Consuming, but Consummating Anger (for so Saint <hi>Augustine</hi>
+               <note n="o" place="margin">Est ira consum<g ref="char:EOLhyphen"/>mationis, &amp; est ira cōsumptionis, (nam omnis Vindicta Dei, Ira dicitur) sed aliquando ad hoc vindicat Deus, vt perficiat: aliquan<g ref="char:EOLhyphen"/>do ad hoc vindicat, vt damnet. Idem in Psal. <hi>58.</hi> to <hi>8.</hi> s. <hi>599.</hi>
+               </note> calls Gods An<g ref="char:EOLhyphen"/>ger towards the Godly) shee can see the yerning and relenting Bowels of a Compassionate Father, so in the height of Satans Terrifying iniections, she can shunne and abhorre Gods Displeasure<note n="p" place="margin">—Qui glutine Deo conglutinatur, id est ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritate— terribilius &amp; hor<g ref="char:EOLhyphen"/>ribilius ipsâ Gehen<g ref="char:EOLhyphen"/>na iudicat, in re le<g ref="char:EOLhyphen"/>uissima vultū om<g ref="char:EOLhyphen"/>nipotentis scientèr offendere. S. Bern. de Tripl. Cohaeren. Vincul.</note>, more than all other miseries of Punishments, and therefore in what state soeuer she be of Consola<g ref="char:EOLhyphen"/>tion or Desertion, shee is still the same Woman, <hi>Timens Dominum, Fearing the Lord.</hi>
+            </p>
+            <p>Thus wee haue seene who shee is, who <hi>shall be praised,</hi> lest we should praise Her vnawares, whom we should not praise. And now it were good we did thinke a little better on the Reason, why <hi>she shall be praised,</hi> euen because she is such <hi>a woman fea<g ref="char:EOLhyphen"/>ring the Lord.</hi>
+            </p>
+            <p>For if any thing, so rare and excellent a Grace as the <hi>Feare of the Lord</hi> is, should moue vs to affect it, and labour for it, <note place="margin">
+                  <hi>The Reason</hi>
+               </note> especially being found in so weake a Vessell as a Woman is<note n="q" place="margin">
+                  <hi>1</hi> Pet. <hi>3.7.</hi> Vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ita{que} nominatus est, quod maior in eo Vis est quàm in foe<g ref="char:EOLhyphen"/>mina, &amp; hine Vir<g ref="char:EOLhyphen"/>tus nomen accepit. Item Mulier à mol<g ref="char:EOLhyphen"/>licie est dicta—velut Mollier. Lact. de Ops. Dei. cap. <hi>12.</hi>
+               </note>. For I could tell you, there are more <hi>Michals</hi>
+               <note n="r" place="margin">1 <hi>Sam.</hi> 18.21. <hi>&amp;</hi> 25.41.</note> than <hi>Abigails</hi>
+               <note n="s" place="bottom">2 <hi>Sam.</hi> 6.16, 20.</note>, more <hi>Iezebels</hi>
+               <note n="t" place="bottom">1 <hi>King.</hi> 21.7. 2 <hi>King.</hi> 9.22, 30.</note> than <hi>Sarah's</hi>
+               <note n="u" place="bottom">1 <hi>Pet.</hi> 3.6.</note>, more proud <hi>Vasthy's</hi>
+               <note n="x" place="bottom">
+                  <hi>Esth.</hi> 1.12.</note>, than humble <hi>Esthers</hi>
+               <note n="y" place="bottom">
+                  <hi>Esth.</hi> 8.5.</note>, more Fearefull women, than Women <hi>Fearing the Lord;</hi> and therefore the rarer such Phoenixes are (as S. <hi>Ierom</hi> calls them<note n="a" place="bottom">Optima foemina rarior est Phoenice. Malarum foeminarū tam copiosa sunt examina &amp;c. S. Ier. epist.</note>) not <hi>One</hi> to be found by wisest <hi>Salomon</hi>
+               <note n="*" place="bottom">
+                  <hi>Eccles.</hi> 7.28. <hi>Prou.</hi> 31.10.</note>, among a <hi>Thousand,</hi> the greater is her praise <hi>that feareth the Lord</hi>
+               <note n="b" place="bottom">Laus tantò maior deferri solet, quantò est bonum rarius quod exigit Laudem. S. Aug. lib. <hi>1.</hi> de Ciuit. Dei. cap. <hi>28.</hi> tom. <hi>5.</hi>
+               </note>.</p>
+            <pb n="12" facs="tcp:3036:11"/>
+            <p>Then I must tell you, that euery Feare is not commendable. Not that Feare which is Hypocri<g ref="char:EOLhyphen"/>ticall, for this is Superstition, when men feare the Feare of Idolaters<note n="c" place="margin">Esai. <hi>8.12</hi> Col. <hi>2.20.</hi>
+               </note>. Not that feare which is Worldly, for this is wicked selfe-Loue, when men feare Men<note n="d" place="margin">
+                  <hi>2</hi> Tim <hi>3.2.</hi> Mat. <hi>10.28.</hi> Qu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> an m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>si De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>solus? Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ste, a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll potius metum co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp;c. Tertul ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rs. Gnost c. <hi>9</hi> tom. <hi>3.</hi>
+               </note> Losse of Goods, Fire and faggot, more than God the Onely Soucraigne Comman<g ref="char:EOLhyphen"/>der of the Soule, the Only Dreadfull Threatner of euerlasting Burnings. Nor that feare which is Ser<g ref="char:EOLhyphen"/>uile<note n="e" place="margin">Tim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uilis n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> est Virtus, quiali<g ref="char:EOLhyphen"/>cet mala d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clinari sa <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iat: non tamen hoc sac<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bene, id est saud ibiliter; immo eruilitèr et brutali<g ref="char:EOLhyphen"/>ter, videlicet solo met<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> serae, ita enim o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cupat animum &amp; intentionam timen<g ref="char:EOLhyphen"/>tis, vt oraculos cordis ad solam poenae eua<g ref="char:EOLhyphen"/>sionem habeat &amp;c. Paris. de Virtuti<g ref="char:EOLhyphen"/>bus, fol. <hi>81.</hi> lit. H. &amp; Paludon. l. <hi>3.</hi> d. <hi>34.</hi> q. <hi>3.</hi>
+               </note> or adulterate<note n="f" place="margin">—Coniun qu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a<g ref="char:EOLhyphen"/>dultermum animū gerit, etiam si timo<g ref="char:EOLhyphen"/>re viri non adulte<g ref="char:EOLhyphen"/>rium perpetrat: ta<g ref="char:EOLhyphen"/>men quod deest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<g ref="char:EOLhyphen"/>ri, inest voluntati. C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ta verò aliter ti<g ref="char:EOLhyphen"/>met. nam &amp; ipsa times virum; sed caste. Deniq, timet illa, no vir insestus adueniat, ista ne offen<g ref="char:EOLhyphen"/>sus abscedat. S. Aug. epist. <hi>120.</hi> c. <hi>21.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>2</hi>
+               </note>, for this is no Vertue proues <hi>Paris.</hi> when men seare the <hi>Euill of Punishment</hi> on<g ref="char:EOLhyphen"/>ly; not the <hi>Euill of Sinne,</hi> as an Adulteresse feares the Comming home of her Husband; but feares not the Committing of Adultery. Nor is that feare commendable, which is Distrustfull or Im<g ref="char:EOLhyphen"/>moderate like <hi>Ruben</hi> as <hi>Gerson</hi>
+               <note n="g" place="bottom">Ruben violat Balamdum nimium grandis effectus e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, q<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> timor si simius est, dum se custodire nititur, format inutiles imaginationes, quibus se con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oluens a salutaribus impeditur. Tract <hi>10.</hi> super, Magnificat. part. <hi>3.</hi>
+               </note> alludes growen great, and lying with <hi>Bilhah,</hi> for this is Infidelitie when men tie Gods Grace to present deliuerance out of danger, without a Beleeuing and waiting Spirit for his Mercie, <hi>Esai.</hi> 28.16.</p>
+            <p>But the <hi>Feare</hi> for which a <hi>Woman shall be praised,</hi> is informed by Wisdome, instructed by Vnder<g ref="char:EOLhyphen"/>standing, directed by Counsell, strengthned by Might, gouerned by Knowledge, adorned with Pietie, as Saint <hi>Ambrose</hi> collects out of the ele<g ref="char:EOLhyphen"/>uenth of <hi>Esay</hi>
+               <note n="h" place="bottom">Lege Esaiam: vide quan<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> subiecerit timorem vt faceret irreprehensibilem &amp; bonum Timorem. Spiritus inquit Sapientia &amp;c. Tal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Timori Domini i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta &amp; est. irrationabilis &amp; insipiens Timor, vnus ex illis: Foris sugnae, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tus <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es. In P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l. <hi>18.</hi> Ser. <hi>5.</hi> tom. <hi>4.</hi>
+               </note>. It is a Faithfull feare trusting in
+<pb n="13" facs="tcp:3036:11"/>God<note n="i" place="margin">Psal. <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.11 &amp; <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.11. Esai. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.10.</note>, and making Him her <hi>Feare, Esai.</hi> 8.13. and her Hope too in the Day of Euill, not without this seruent Prayer vnto Him then: <hi>Be not thou a Te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rour vnto me, ler.</hi> 17.17. A chast and <hi>Cleane Feare</hi>
+               <note n="k" place="margin">Psal <hi>19.9.</hi>
+               </note>, <hi>Cleansing from all filthinesse of the flesh and Spirit</hi>
+               <note n="l" place="margin">2 <hi>Cor.</hi> 7.1.</note>. A Reuerent and Godly Feare<note n="m" place="margin">Hebr. <hi>12.28.</hi>
+               </note>, Preparing the heart, Humbling the Soule in Gods sight<note n="n" place="margin">Eccles. <hi>2.17.</hi> &amp; <hi>21.6.</hi>
+               </note>, Trem<g ref="char:EOLhyphen"/>bling at his Word<note n="o" place="margin">Esai. <hi>66.2.</hi> Eccle. <hi>2.15.</hi>
+               </note>, not Disobeying it, Eschow<g ref="char:EOLhyphen"/>ing<note n="p" place="margin">
+                  <hi>Iob</hi> 1.1.</note> euill, Working righteousnesse and Giuing much almes<note n="q" place="margin">Act. <hi>10.35, 2, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> Eccles. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.1.</hi>
+               </note>. A Blessed Feare it is<note n="r" place="margin">Psal. <hi>112.1.</hi> &amp; <hi>128.1</hi>
+               </note>, Blessing them that haue it, Blessing the Lord that giues it, Praising Him and saying: <hi>That his Mercy endureth for euer</hi>
+               <note n="s" place="margin">
+                  <hi>Psal.</hi> 135.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>&amp;</hi> 118.4. <hi>&amp;</hi> 22.23.</note>.</p>
+            <p>Lastly, it is an Euerlasting Feare, euer encrea<g ref="char:EOLhyphen"/>sing<note n="t" place="margin">
+                  <hi>1</hi> King. <hi>18.3 12</hi> To<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>14.4.</hi>
+               </note>, and <hi>Enduring for euer</hi>
+               <note n="u" place="margin">Isal. <hi>99.</hi> Reuel. <hi>7.10, 11.</hi> &amp; <hi>19.1, 3, 4, 5, 6.</hi>
+               </note>, though not in re<g ref="char:EOLhyphen"/>spect of the Act of Declination or eschewing of sinne<note n="x" place="margin">Bonau. lib. <hi>3</hi> d. <hi>34.</hi> q. <hi>3.</hi> p. <hi>89.</hi> Tho. Aquin. 22 q. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9</hi> a. <hi>11.</hi>
+               </note>, because in Heauen there is no feare of sin<g ref="char:EOLhyphen"/>ning<note n="y" place="margin">In coelo, vbi non est peccatum G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a est &amp; perpetua laus &amp; indefessae praeco<g ref="char:EOLhyphen"/>nia. S. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom. ad Therdoram. Epi<g ref="char:EOLhyphen"/>taph. Lucinij. Timorem Offensae &amp; Timorem Paenae. Glo<g ref="char:EOLhyphen"/>ria Pacriae pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ersectionem no <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. In tut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s et <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae et a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ae. Pari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Virtutibus, lit. A. F.</note>; yet in respect of the Act of Celebration or Reuerencing God, because there the Saints doe nothing else; but still Giue Glory to Him, and Worship Him with humble Acknowledgement of their owne Vnworthinesse, <hi>Psal.</hi> 19.9. with <hi>Re<g ref="char:EOLhyphen"/>uel.</hi> 4.10.11.</p>
+            <p>Now (Honourable and Beloued) though I haue set nothing at all besides this Heauenly Manna be<g ref="char:EOLhyphen"/>fore your eyes; yet your full Soules must not Loath it. For if that only is to be praised which is excellent<note n="a" place="bottom">Laudare plus est quàm pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e &amp; praedica<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Land<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> q<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> excellit &amp;c. Auso. Popma de Differen. Virt. l. <hi>3.</hi>
+               </note>, then (by your leaue) I must stand some<g ref="char:EOLhyphen"/>what longer vpon the Excellencie of this <hi>Feare,</hi> before <hi>a Woman</hi> can be <hi>praised</hi> that hath it.</p>
+            <pb n="14" facs="tcp:3036:12"/>
+            <p>I demand then what doe you count Excellent?<note place="margin">The Excellen<g ref="char:EOLhyphen"/>cie of Godly Feare.</note> Riches, Honour, Life. Why, these are neuer well gotten, nor well kept; but by <hi>the Feare of the Lord.</hi> So saith <hi>Salomon, By the feare of the Lord are Ri<g ref="char:EOLhyphen"/>ches and Honour, and Life</hi>
+               <note n="b" place="margin">
+                  <hi>Prou.</hi> 22.4. <hi>&amp;</hi> 19.23. <hi>Eccles.</hi> 1.11, 12. <hi>&amp;</hi> 23.27. <hi>&amp;</hi> 40.26, 27. <hi>&amp;</hi> 10.20, 22.</note>. Say what you will, it must needs be an Excellent thing wherwith Christ Iesus Himselfe was Filled, and that was with <hi>The Spirit of this Feare, Esai.</hi> 11.2.<note n="c" place="margin">Inter Laudes me<g ref="char:EOLhyphen"/>as &amp; illa est exi<g ref="char:EOLhyphen"/>mia: quod ipsum Christum Dominū Apothecam, immo fontem Gratiarum omnium &amp; Virtu<g ref="char:EOLhyphen"/>tum replere dictus sum &amp;c. Paris. de Moribus, fol. <hi>99.</hi> Lit. P.</note>. An excellent thing which God Himselfe so earnestly desires to be still in vs, and that is this <hi>Feare. O</hi> (saith He) <hi>that there were such an Heart in them, that they would feare me, and keepe my Commandements alwaies</hi>
+               <note n="d" place="margin">Deut. <hi>5.29.</hi>
+               </note>, which is in<g ref="char:EOLhyphen"/>deed <hi>the whole Dutie of Man</hi>
+               <note n="e" place="margin">Eccles. <hi>12.13.</hi> De<g ref="char:EOLhyphen"/>um time — Ergo si hoc est omnis Ho<g ref="char:EOLhyphen"/>mo, absq, hoc Nihil omnis Home. Serm. <hi>20.</hi> in Cant.</note>; without which (Saint <hi>Bernard</hi> concludes) <hi>Euery man is Nothing.</hi> He is not a Man (reasons a Schoole-man<note n="f" place="margin">Vsus enim huma<g ref="char:EOLhyphen"/>ni animi pendet à Timore conspictus Diuini tanquam à primi regula. C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et. in Eccles. c. <hi>8.13.</hi> v.</note>) but the Shadow of a Man; because He imployes not his Soule to that noble End for which he had it, namely, to be squared and ruled by <hi>the feare of the Lord:</hi> without which no man can so much as Be<g ref="char:EOLhyphen"/>gin to be wise, because this <hi>Feare is the Beginning</hi>
+               <note n="g" place="margin">Prou. <hi>9.10.</hi> Iob <hi>28.28.</hi>
+               </note>
+               <hi>of wisdome,</hi> nor so much as <hi>Begin to Loue God,</hi> be<g ref="char:EOLhyphen"/>cause this <hi>Feare is the Beginning of the Loue of God</hi>
+               <note n="h" place="margin">Eccles. <hi>25.12.</hi>
+               </note>. It is the <hi>Sale</hi> alludes <hi>Blesensis</hi> that must be in eue<g ref="char:EOLhyphen"/>ry <hi>Sacrifice</hi>
+               <note n="i" place="margin">Leuit. <hi>2.13.</hi> Pet. Bles. ser. <hi>36.</hi> p. <hi>430.</hi>
+               </note>, in euery <hi>Worke we doe,</hi> so that there is no <hi>Seruing God,</hi> no <hi>Reioycing</hi> in Him<note n="k" place="margin">Psal. <hi>2.11.</hi>
+               </note>, no hear<g ref="char:EOLhyphen"/>tie <hi>Repenting</hi>
+               <note n="l" place="margin">2 <hi>Cor.</hi> 7.11. <hi>Eccl.</hi> 21.6.</note>, no <hi>Chast Conuersing</hi>
+               <note n="m" place="margin">1 <hi>Pet.</hi> 3.2.</note>, no <hi>Perfecting Holinesse</hi>
+               <note n="n" place="bottom">2 <hi>Cor.</hi> 7.1.</note>, no <hi>Working out our Saluation,</hi> but with <hi>Feare and Trembling</hi>
+               <note n="o" place="bottom">Philip. <hi>2.12.</hi>
+               </note>; nay there is no <hi>Saluation,</hi> no <hi>Blessednesse</hi> without <hi>Continuing in this Feare</hi>
+               <note n="p" place="bottom">Eccles. <hi>2.10. 1</hi> Tim. <hi>2.15.</hi>
+               </note>, <hi>Prou.</hi> 28.14. Againe, is not that Excellent, that will make vs more Excellent than our Neigh<g ref="char:EOLhyphen"/>bours<note n="q" place="margin">P<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Eccus. <hi>15.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note>,
+<pb n="15" facs="tcp:3036:12"/>that will Exalt vs aboue them, that will keepe our hearts from Hardning<note n="r" place="margin">Prou. <hi>28.14.</hi>
+               </note>, our Houses from Ouerthrowing<note n="s" place="margin">Eccles. <hi>27.3.</hi>
+               </note>? but nothing can doe this; but this <hi>Feare of the Lord.</hi> This feare (saith <hi>Paris.</hi>
+               <note n="t" place="margin">Ego sum Tempe<g ref="char:EOLhyphen"/>stas ad l berat onem &amp; salut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, Terrae<g ref="char:EOLhyphen"/>motum spiritu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m in c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de humano sa<g ref="char:EOLhyphen"/>ciens, et omnia Dia<g ref="char:EOLhyphen"/>bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ica aedificia in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o subu rtens et discu<g ref="char:EOLhyphen"/>tiens ab co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em. Paris. de Morib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s fol. <hi>99.</hi> lit. F.</note>) can cause a soiritual Earth-quake in a mans Heart, able to ouerthrow all the Deuils strongest holds, any<note n="u" place="margin">
+                  <hi>Prou.</hi> 8.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>&amp;</hi> 16.6. <hi>Psal.</hi> 119 <hi>&amp;</hi> 36.117.128. v. <hi>Iam.</hi> 2.10. <hi>Psal.</hi> 86.11.</note> Bosome-finne, be it neuer so pleasing and profitable, by reason of that Contrarietie and Op<g ref="char:EOLhyphen"/>position<note n="x" place="margin">sed aiunt quida: Satis Deum habe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e si corde &amp; animo suspiciatur, licet actu minus fiat. I<g ref="char:EOLhyphen"/>taq, se saluo metu et fide peccare; hoc est Saluâ castitate, ma<g ref="char:EOLhyphen"/>trimonia violare, Saluâ pietate, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>reti venenum tem<g ref="char:EOLhyphen"/>perare. Tertul. de Poenit. c. <hi>5.</hi> tom. <hi>2.</hi>
+               </note> that is between Lying in any Sweet Sinne, and Liuing in Gods Feare and Fauour, as you may see, <hi>Leuit.</hi> 25.36.</p>
+            <p>Lastly, this is an Excelient Feare, because it is <hi>A fountaine of Life</hi>
+               <note n="y" place="margin">Prou. <hi>14.27.</hi>
+               </note>: wherefore? <hi>To driue away Sinnes</hi>
+               <note n="a" place="margin">Eccles <hi>1, 21.</hi>
+               </note>, Sinnes which haue beene committed by Repentance (saith S. <hi>Bernard</hi>) and Sinnes where<g ref="char:EOLhyphen"/>to we are Tempted, by Resistance<note n="b" place="margin">Timor Domini expellit peccatum, sine quod iam admissum est, sine quod tentat intrare. Expellit sanè illud quidem poenitende, hoc. Resisendo. Serm. de Diuers. Assect.</note>; and yet this is not all the Excellencie of this Feare: For it is <hi>A fountaine of life</hi> also: <hi>To Cause vs to finde fauour at our Deaths</hi>
+               <note n="c" place="bottom">Eccles. <hi>1.13.</hi>
+               </note>; and which is more, Such an Excel<g ref="char:EOLhyphen"/>lent Feare as will make vs <hi>Not feare, nor be afraid</hi>
+               <note n="d" place="bottom">Eccles. <hi>34.14.</hi> Exod. <hi>20.20.</hi> Prou. <hi>1.33.</hi> &amp;. <hi>19.23.</hi> Psal. <hi>27.1, 2, 3.</hi> &amp; <hi>34.4.</hi>—Auserendi sunt metus, sed ita, vt hic solus <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>linquatur, qui quoniam legitimus ac verus est, solus essicit, ut possint caetera omnia non timer, Lact. de Ʋero Cultu. l. <hi>6.</hi> c. <hi>17.</hi> Qui enim Deum veracitèr t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>met, nihil terrenum &amp; caducum time<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> immo ex ipso T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>more Dei, ipsis Timoribus supereffertur. Bonau. lib. <hi>3.</hi> d. <hi>34.</hi> q. <hi>1.</hi> p. <hi>62.</hi>
+               </note>. Whereupon Saint <hi>Augustine</hi>
+               <note n="e" place="bottom">De Temp. Serm. <hi>214.</hi> tom. <hi>10.</hi>
+               </note> concludes for my purpose: <hi>Dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at timere, qui non vult timere: Discat ad tempus esse Solicitus, qui semper vult esse secur us.</hi> Let him learne to seare, that would not feare: Let him be wary and cautelous for a time, that would be happie and secure for euer. <hi>Tertullian</hi> giues the
+<pb n="16" facs="tcp:3036:13"/>reason<note n="f" place="margin">Nam q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i praesu<g ref="char:EOLhyphen"/>mit, minus veretur, minus p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auet, plus periclitatur &amp;c De Cultu Faem. cap. <hi>2.</hi> &amp; de Pae<g ref="char:EOLhyphen"/>nit. cap. <hi>6.</hi> —Vo<g ref="char:EOLhyphen"/>to te timere &amp; non timere, praesu<g ref="char:EOLhyphen"/>mere. &amp; non praesu<g ref="char:EOLhyphen"/>mere, timere vt pae<g ref="char:EOLhyphen"/>niteas, non timere vt praesumas, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ro praesumere ne deffidas, non prae<g ref="char:EOLhyphen"/>sumere ne torpescat. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p. <hi>87.</hi> ad Oger.</note>, because if <hi>We feare to Offend,</hi> by Fearing we will take heed, lest we Offend, and by Taking heed, we shall be in safetie; otherwise if wee pre<g ref="char:EOLhyphen"/>sume and be not alwaies watchfull ouer our hearts lest thev oftend, we cannot be <hi>Saued</hi>
+               <note n="g" place="margin">Prou. <hi>4.23.</hi> Ier. <hi>4.14, 18.</hi> &amp; <hi>16.10, 11, 12.</hi> Es. <hi>55. 7.</hi> Mat. <hi>15.19.</hi> Nec sufficit non egisse a<g ref="char:EOLhyphen"/>liquid imptum, si mete cogitatur im<g ref="char:EOLhyphen"/>pietas. S. Hilar. in Psal. <hi>65</hi> fol. <hi>424.</hi>
+               </note>, <hi>Ier.</hi> 4.14. <hi>Qui solicitus est, is verè poterit esse securus:</hi> He that is not ouer-hold on his owne strength<note n="h" place="margin">Prou. <hi>28.26.</hi> Rom. <hi>7.18</hi> &amp; <hi>11.20.</hi>
+               </note>; but con<g ref="char:EOLhyphen"/>fident in Christ<note n="i" place="margin">Phil. <hi>4.13. 2</hi> Tim. <hi>2.1.</hi> &amp; <hi>4.18.</hi> Eph. <hi>6. 10. 2</hi> Chron. <hi>16.8, 9.</hi> et <hi>20.12.</hi> Deut. <hi>6.3, 4.</hi> Quicquid est circa te v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l in te unde possis praesu<g ref="char:EOLhyphen"/>mere, abjicea a t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a praesumptio tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Deus sit, illius indi<g ref="char:EOLhyphen"/>gens esto, vt implearis &amp;c. S. Aug. in Psal. <hi>85.</hi>
+               </note>, and liues not securely in the mi<g ref="char:EOLhyphen"/>nion-delight of any knowne sinne; but stands in such continuall awe of Gods <hi>Presence, Precepts, Promises, Threats,</hi> that he dare not so much as once make any offer of incurring his Displeasure by the impenitent Allowance of any sinne in his heart<note n="k" place="bottom">Psal. <hi>66.18. 1</hi> Pet. <hi>3.15.</hi> Ez. <hi>33.31.</hi> Psal. <hi>24.4.</hi> Iam. <hi>4.8.</hi> Heb. <hi>10.22.</hi> Redi ad te, intus tibi esto iudex. Ecce in cubiculo tuo abscondito, in ipsa vena intima cordis tui vbi tu solus es, &amp; ille qui videt; illie tibi displiceat iniquitas, vt placeas Deo—Parum est in vul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ù, parum est in lingua, in corde noli respicere, id est, noli diligere, noli acceptare. Idem in Psal. <hi>65.</hi> to <hi>8.</hi>
+               </note>, and studies to do euery Good worke as carefully, as if it were the Last he should doe in this World, and as exactly, as if his whole Saluation depended vpon it, such a Man in Ancient <hi>Tertullians</hi> iudge<g ref="char:EOLhyphen"/>ment<note n="l" place="bottom">De cultu Faem. cap. <hi>2</hi> to. <hi>2.</hi>
+               </note> may be truely secure of Perseuering in Grace here; and of being Glorified hereafter<note n="m" place="bottom">
+                  <hi>2</hi> Thess. <hi>3.3. 2</hi> Tim. <hi>2.19.</hi> Ioh. <hi>15.16.</hi> Luke <hi>10.20.</hi> Ioh. <hi>16.22.</hi> &amp; <hi>10.28, 29.</hi> v. Psal. <hi>15.5.</hi> &amp; <hi>125 1.</hi> Prou. <hi>10.30.</hi>
+               </note>, 1 <hi>Thess.</hi> 5.15, 24. Once more and I haue done. Is not that an excellent thing that is for the Good of them that haue it, &amp; of their children after them? Riches, Honour, Beautie, Policie, these and the like are not oftentimes so, as we see by woefull ex<g ref="char:EOLhyphen"/>perience in <hi>Nabal, Haman, Absalom, Achitophel;</hi> but <hi>the feare of the Lord</hi> is euer so, <hi>for the Good of them that haue it, and for their children after them,</hi> as the
+<pb n="17" facs="tcp:3036:13"/>Prophet saith, <hi>Ier.</hi> 32.39. and God himselfe before him, <hi>Deut.</hi> 5.29.</p>
+            <p>There is no want to them that haue this <hi>Feare</hi> of any Good thing that is Good for them<note n="n" place="margin">Psal. <hi>34.9, 10</hi> Eccles. <hi>40.26, 17.</hi> &amp; <hi>1.16.</hi>
+               </note>. For first, <hi>Psal.</hi> 25.14. <hi>The secret,</hi> that is, <hi>the feare of the Lord, is with them that feare Him;</hi> and is not that enough, though I should say no more with the Psalmist, because <hi>Godly Feare is Gods Treasure, Esai.</hi> 33.6. and <hi>Better little with it</hi> (saith <hi>Salomon</hi>) <hi>than Great Treasure</hi>
+               <note n="o" place="margin">Prou. <hi>15.16.</hi>
+               </note>? But there is more behind to moue you further to affect this Excellent Grace. For if you will <hi>Feare the Lord,</hi> He will shew you his <hi>Couenant</hi>
+               <note n="p" place="margin">Psal. <hi>25.14.</hi>
+               </note>
+               <hi>of life and peace</hi>
+               <note n="q" place="margin">Mal. <hi>2.5.</hi>
+               </note>, <hi>Teach you the way that you shall chuse</hi>
+               <note n="r" place="margin">Psal. <hi>25.12.</hi>
+               </note>, <hi>Haue a Booke of remembrance written before Him for you</hi>
+               <note n="s" place="margin">Mal. <hi>3.16.</hi>
+               </note>: <hi>Hee Will Arise vnto you the Sunne of Righteousnesse with healing in his wings</hi>
+               <note n="t" place="margin">Mal. <hi>4.2.</hi>
+               </note>: <hi>He wil hide you in his presencefrom the pride of men</hi>
+               <note n="u" place="margin">
+                  <hi>Psal.</hi> 31.20.11.</note>, <hi>Keepe you secretly in a Pauilion from the strife of tongues, Deliuer you in Temptation euen againe</hi>
+               <note n="x" place="margin">Eccles <hi>33.1.</hi>
+               </note>; yea <hi>He will take pleasure in you</hi>
+               <note n="y" place="margin">
+                  <hi>Psal.</hi> 147.11.</note>, <hi>Pitie you as a Fa<g ref="char:EOLhyphen"/>ther doth his children</hi>
+               <note n="a" place="margin">
+                  <hi>Psalm.</hi> 103.13. <hi>Mal.</hi> 3 17.</note>, <hi>Fulfill your Desire, Heare your crie and saue you</hi>
+               <note n="b" place="margin">
+                  <hi>Psal.</hi> 145.19.</note>. And what is all this, but in a word (the word of my Text) <hi>Hee will praise you,</hi> which is the Thing Promised to <hi>a woman fearing the Lord.</hi>
+            </p>
+            <p>
+               <hi>Ipsa Laudabitur: She shall be praised.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> She shall be so;<note place="margin">The thing pro<g ref="char:EOLhyphen"/>mised. In what re<g ref="char:EOLhyphen"/>spect to <hi>Ipsa.</hi>
+               </note> but may not that labour be spa<g ref="char:EOLhyphen"/>red? For a man would thinke, she hath been prai<g ref="char:EOLhyphen"/>sed all this while; because Godly Feare, the Grace of God in Her, and the onely cause of her Praise, hath beene alreadie so much commended vnto you? No (Beloued) my Text (you see) applies
+<pb n="18" facs="tcp:3036:14"/>and appropriates this praise to <hi>Ipsa,</hi> Her own Per<g ref="char:EOLhyphen"/>son, by vertue indeed of <hi>the Feare of the Lord.</hi> For were it not for that, it were better Contemning Her, yea Contending<note n="c" place="margin">Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>28.4.</hi> &amp; <hi>14.24</hi> &amp; <hi>17.15.</hi> Eccl. <hi>10.23. 29</hi> Tho. A<g ref="char:EOLhyphen"/>quin. <hi>22.</hi> q. <hi>115.</hi> a. <hi>2.</hi> Corp.</note> with Her, than Com<g ref="char:EOLhyphen"/>mending Her, because that is a constant marke of the Godly to Contemne the vngodly, <hi>Psal.</hi> 15.4. This, of the wicked to Praise the wicked, to Blesse the Couetous, whom <hi>the Lord abhorreth, Psal.</hi> 10.3. It is not her Friendship, no nor <hi>Carnis bona</hi> (as Saint <hi>Ierom</hi>
+               <note n="d" place="margin">E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o carnis bona quae se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per &amp; ips<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contempsit, in ani<g ref="char:EOLhyphen"/>mae landibus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o re<g ref="char:EOLhyphen"/>quiram—ad He<g ref="char:EOLhyphen"/>liodor. Epitah. Ne<g ref="char:EOLhyphen"/>pot.</note> calls them) <hi>the Good endowments of the flesh,</hi> can priuiledge him from a <hi>Curse,</hi> if so be, he praise her without or aboue<note n="e" place="margin">Prou. <hi>27.14.</hi> Vox autem grandis, laus excedens m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsurā Meritorum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>tellig tur—Paris. de Moribus. fol. <hi>123.</hi> lit. M.</note> her Deserts, <hi>Prou.</hi> 27.14. Onely <hi>the feare of the Lord,</hi> with the excellent fruits thereof, is Gods Gift<note n="f" place="margin">Es. <hi>26.12. 1</hi> Cor. <hi>15.10.</hi> &amp; <hi>12.6.</hi> Phil. <hi>2. 13.</hi> Ier. <hi>32.40.</hi>
+               </note>, for which (saith <hi>Fulgentius</hi>
+               <note n="*" place="margin">Laudari in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onis o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eribus debes; sed in eo quod operaris, hominū laudes ex<g ref="char:EOLhyphen"/>pectare non debes—Deus Laudetur in operibus tuis. De statu Vidu. ad Gal<g ref="char:EOLhyphen"/>lam epist. <hi>2.</hi> Si qua sane in Sanctis dig<g ref="char:EOLhyphen"/>na laude vel adme<g ref="char:EOLhyphen"/>ratione intueor, cla<g ref="char:EOLhyphen"/>râ luce veritatis discutiens, profectò reperio Laudabilem siue Mirabilem ali<g ref="char:EOLhyphen"/>um apparere atque alium esse, &amp; Lau<g ref="char:EOLhyphen"/>do Deum in Sanctis eius. S. Bern. Ser. <hi>13.</hi> in Cant.</note>) she ought, and he may safely commend her, because then, not shee; but <hi>Gods Grace</hi> in her is <hi>Praised, Ephes.</hi> 1.6. Yea then, <hi>not she,</hi> but <hi>God himselfe is Glorified</hi> in Her, <hi>Gal.</hi> 1.24.</p>
+            <p>But what? is not <hi>She Praised,</hi> when Her Hus<g ref="char:EOLhyphen"/>band, Her Children, Her Kindred, Her Friends, Her Attendants, Her Wit, Her Wealth, Her Beautie, Her Nobilitie, or all these and the like of Hers are commended? Yes, all these come very neere Her, and mutually receiue lustre and emi<g ref="char:EOLhyphen"/>nencie from this Godly Feare; but they are not <hi>Ipsa,</hi> Her selfe, that is,<note n="g" place="bottom">
+                  <hi>1</hi> Pet. <hi>3.4.</hi> Enimverò quis non animae da<g ref="char:EOLhyphen"/>bit summam omnem, cuius nomine totius Hominis mentio titulata est. Tertul. de Anima. cap. <hi>13.</hi>
+               </note> principally Her Soule truely Generous, and ennobled with the <hi>Feare of the Lord.</hi> Vntill such an Humble Soule be found in Her, She is not She, that <hi>shall be adorned with the Garment of praise, Esai.</hi> 61.3. Therefore Saint <hi>Ie<g ref="char:EOLhyphen"/>rom</hi>
+               <note n="h" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nihil in illâ laudabo, nisi quod pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>prū est. S. Ierom ad Princip. <hi>And so</hi> of Paula <hi>he saith.</hi> Nihil laudab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus nisi quod proprium est. &amp; de purissimo sanctae mentis fonte profertur. Id. ep. ad Eustoch. Nam cum omnia opera sua laudauerit Deus, cae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, terram &amp;c. vbi ad Hominé <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etum est, solus non videtur esse lauda<g ref="char:EOLhyphen"/>tus propter quem omnia generata sut. Quae igitur causa est, nisi forte ea, quia alia in specte sunt, Homo in oc<g ref="char:EOLhyphen"/>cuito? quia aliorum Gratia foris, hutus intus est. Aliorum in Natiuitate, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>ius in Corde.—Ideo ergo homo non an<g ref="char:EOLhyphen"/>te laudatur, quia non in forensi pelie; sed in interiore Ho<g ref="char:EOLhyphen"/>mine antè probandus, sic praedicandus est. S. Ambros. Instit. Virg. cap <hi>3</hi> tom. <hi>1.</hi>
+               </note>
+               <pb n="19" facs="tcp:3036:14"/>would not commend in Noble <hi>Marcella</hi> any thing saue Her owne Godly selfe. <hi>Ipsa Laudabitur:</hi> She is She that shall be Praised.</p>
+            <p>And so we see how far forth Praise is to be ex<g ref="char:EOLhyphen"/>tended to Her. Now to speak of the Extent of Her Praise: Let the word haue his full latitude. <hi>Lauda<g ref="char:EOLhyphen"/>bitur</hi> is generall, no kinde is limited. 1. Therefore for the Extent, to be praised euery manner of way. 2. For the Time when it shall be best for her. 3. For the Praiser, by him who can best doe it. Of all these briefly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> First, what praise she shall haue. <note place="margin">
+                  <hi>What Praise she shall haue. The Extent of Laudabitur. tum cil, solus non videtur esse lauda<g ref="char:EOLhyphen"/>tus propter qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m omnia generata sut. Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> igitur causa es<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, nisi forte ea, quia alia in specie sunt, Homo in oc<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to? quia aliorum Gratia foris, h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius intus est. Aliorum in Natiuitate, hu<g ref="char:EOLhyphen"/>ius in Corde.—Ideo ergo homo non an<g ref="char:EOLhyphen"/>te laudatur, quia non in forensi peli<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, sed in interio<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne ante probandus, sic praedicandus est. S. Ambros. Instit. Virg. cap 3 t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. 1.</hi>
+               </note> 1. Euen that (which being true) is euer accompanied with Dea<g ref="char:EOLhyphen"/>rest Loue to her person<note n="i" place="bottom">
+                  <hi>2</hi> Ioh. <hi>1.1.</hi> Hebr. <hi>13.1.</hi> Ephes. <hi>5.25.</hi>
+               </note>. 2. Highest estimation of Gods abundant graces in Her<note n="k" place="bottom">
+                  <hi>1</hi> Thess. <hi>5 13.</hi>
+               </note>. 3. Frequent Commemoration of them<note n="l" place="bottom">Mark <hi>14.9.</hi> Psal. <hi>112.6.</hi>
+               </note>. 4. Moderate La<g ref="char:EOLhyphen"/>mentation at her Death<note n="m" place="bottom">Gen. <hi>23.2.</hi> Ioh. <hi>11.33.35. 1</hi> King. <hi>14.13. 1</hi> Thes. <hi>4.13.</hi> Eccles. <hi>22.11.12.</hi> &amp; <hi>38.16, 17.</hi>
+               </note>. 5. Solemne Funerals according to the Dignitie of her place<note n="n" place="bottom">Act. <hi>8.2. 2</hi> Chron. <hi>32.33.</hi>
+               </note>. 6. And aboue all, with precise imitation of her excellent Vertues<note n="o" place="bottom">Iam. <hi>5.10.</hi> Hebr. <hi>12.1.</hi> &amp; <hi>13.7. 1</hi> Cor. <hi>11.1.</hi>
+               </note>. All this Honour God allowes Her, that honours Him with His Feare<note n="p" place="bottom">
+                  <hi>1</hi> Sam. <hi>2.30.</hi> Deut. <hi>26.19.</hi> Ioh. <hi>12.26.</hi> Esai. <hi>8.13.</hi> Timor Hominis, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Honor est. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt. de P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nit c. <hi>7.</hi>
+               </note>. But because all Praise is properly in Words (as the Schoole<g ref="char:EOLhyphen"/>man teacheth<note n="q" place="bottom">T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Aquin. <hi>22.</hi> q. <hi>103.</hi> a. <hi>1.</hi> ad <hi>3.</hi>
+               </note>) and better words shee cannot haue to praise Her, than God himselfe speakes<note n="r" place="bottom">Psal. <hi>12.6.</hi>
+               </note>, therefore she shall be Commended in no other, neither in regard of God, nor of her Husband, Children, Kindred, Seruants, and Gods People.</p>
+            <p>First in respect of God, she shall be praised for
+<pb n="20" facs="tcp:3036:15"/>One of his Excellent<note n="s" place="margin">Psal. <hi>16.3.</hi>
+               </note>, Hidden Ones<note n="t" place="margin">Psal. <hi>83.3.</hi>
+               </note>: for one of his Iewels, which hee will make vp<note n="u" place="margin">Mal. <hi>3.17.</hi>
+               </note>: for His Daughter<note n="x" place="margin">2 <hi>Cor.</hi> 6 18,</note>, His Sister<note n="y" place="margin">Cant. <hi>4.9.</hi>
+               </note>, His Mother<note n="z" place="margin">Matth. <hi>12.50.</hi>
+               </note>, His Spouse<note n="a" place="margin">Hos. <hi>2.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note>, His Loue<note n="b" place="margin">Cant. <hi>2.10.</hi>
+               </note>, His Doue<note n="c" place="margin">Cant. <hi>2.14.</hi>
+               </note>, His Faire<note n="d" place="margin">Cant. <hi>2 13.</hi>
+               </note> one, as Faire as the Moone, as Pure as the Sun<note n="e" place="margin">Cant. <hi>6.10.</hi>
+               </note>: as the Moone by inherent, and as the Sun, by im<g ref="char:EOLhyphen"/>puted Righteousnesse. To her Husband she shall bee commended, as the Louing Hinde and plea<g ref="char:EOLhyphen"/>sant Roe<note n="f" place="margin">Prou. <hi>5.19.</hi>
+               </note>, the Desire of his eyes<note n="g" place="margin">Ezek. <hi>14.16.</hi> Eccles. <hi>36.22.</hi>
+               </note>; An Helpe like vnto Himselfe<note n="h" place="margin">Gen. <hi>2.18.</hi> Eccles <hi>36.14.</hi>
+               </note>; His Companion<note n="i" place="margin">
+                  <hi>Mal.</hi> 2.14.</note>; for A Pillar of rest<note n="k" place="margin">Eccles. <hi>36.24.</hi>
+               </note> so that He shall haue no need of spoile<note n="l" place="margin">Prou. <hi>31.11.</hi>
+               </note>; for a Good Portion<note n="m" place="margin">Eccles. <hi>26.3.23.</hi>
+               </note>, a speciall Fa<g ref="char:EOLhyphen"/>uour<note n="n" place="margin">Prou. <hi>18.22.</hi>
+               </note> and Gift of the Lord<note n="o" place="margin">Prou. <hi>18.22.</hi>
+               </note>; a Double Grace<note n="p" place="margin">Eccles. <hi>26.15.</hi>
+               </note>, Doubling the number of his Daies<note n="q" place="margin">Eccles. <hi>26.1.</hi>
+               </note>, Fatting his bones<note n="r" place="margin">Eccles. <hi>26.13.</hi>
+               </note>, and making him knowne in the Gates, when he sitteth among the Elders of the Land<note n="s" place="margin">
+                  <hi>Prou</hi> 31.23.</note>: for a Tower against Death vnto him<note n="t" place="margin">Eccles <hi>16.22.</hi>
+               </note>: A greater Blessing vnto him than either House or Inheri<g ref="char:EOLhyphen"/>tance<note n="u" place="margin">Prou. <hi>19 14.</hi>
+               </note>, Aboue children and the Building of a Ci<g ref="char:EOLhyphen"/>tie to continue his Name<note n="x" place="margin">Eccles <hi>40.19.</hi>
+               </note>, yea for a Crowne vnto her Husband<note n="y" place="margin">Prou. <hi>12.4.</hi> Non annulus, non tor<g ref="char:EOLhyphen"/>ques aureus, non monue; sed Gorona. Cartw. m Prou.</note>, not a Gold-ring on his finger; nor a chaine of Gold about his necke, nor a Brouch in his hat; but for a Crowne vpon his h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead (an Or<g ref="char:EOLhyphen"/>nament more conspicuous and eminent than the former, the Principall Ensigne of Princes<note n="z" place="margin">Psal. <hi>21.3.</hi> Esth. <hi>2.17.</hi>
+               </note>) gra<g ref="char:EOLhyphen"/>cing him that hath her, as much as a Crown doth Him that weareth it: so that there is none aboue her, that feareth the Lord<note n="a" place="margin">Eccles. <hi>25.10.</hi>
+               </note>, None greater than she, not Great Men, nor Iudges, nor Potentates<note n="b" place="margin">Eccles. <hi>10.24.</hi>
+               </note>: Her Grace is aboue Gold<note n="c" place="margin">Eccles. <hi>7.19.</hi>
+               </note>. Her Price is farre a<g ref="char:EOLhyphen"/>boue Rubies<note n="d" place="margin">
+                  <hi>Prou</hi> 31.10.</note>. Her Continent minde cannot be valewed<note n="e" place="margin">Eccles. <hi>26.14.15.</hi>
+               </note>, and by reason of Her, her Husband
+<pb n="21" facs="tcp:3036:15"/>is a Blessed Man<note n="f" place="margin">Eccles. <hi>26.1.</hi>
+               </note>, Not like other men<note n="g" place="margin">Eccles <hi>36.23.</hi> Sa<g ref="char:EOLhyphen"/>ne Muuere igitur Homn non habet Leudem, in Mulie<g ref="char:EOLhyphen"/>re praedicatur, &amp;c. S. Ambn. s. Iastat. Ʋirg. cap. <hi>3.</hi> tom. <hi>1.</hi>
+               </note>.</p>
+            <p>To Her Children shee shall be Commended; because by her they haue a place of Refuge<note n="h" place="margin">
+                  <hi>Prou.</hi> 14.26. <hi>&amp;</hi> 11.2.</note>: by Her they haue good meanes to bring and con<g ref="char:EOLhyphen"/>tinue true Honour vpon them<note n="i" place="margin">D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut. <hi>5.29.</hi> Psal. <hi>112.2.</hi>
+               </note>, and if They (the Fruit) be a great Blessing<note n="k" place="margin">
+                  <hi>Psal.</hi> 127.3.</note> (as it is to haue Issue by such a One) what is the Root that beareth it<note n="l" place="margin">
+                  <hi>Psal.</hi> 128.3.</note>?</p>
+            <p>But I must hasten: How shall she be Praised in respect of her Parents? euen as <hi>Rachel</hi>
+               <note n="m" place="margin">
+                  <hi>Gen.</hi> 29.9.</note> for do<g ref="char:EOLhyphen"/>ing seruice to them as to her Masters (the true propertie of one that <hi>feareth the Lord</hi>
+               <note n="n" place="margin">Eccles. <hi>37.7.</hi>
+               </note>.) In respect of her kindred by mariage, as <hi>Ruth,</hi> louing them<note n="o" place="margin">
+                  <hi>Ruth</hi> 4.15.</note>, Dealing kindly with them<note n="p" place="margin">
+                  <hi>Ruth</hi> 1.8.</note>, and Cleauing vnto them<note n="q" place="margin">
+                  <hi>Ruth</hi> 1.14 <hi>&amp;c.</hi> 2.11</note>. And in respect of her kindred by bloud, as <hi>Esther,</hi> who did the Commandement of <hi>Mor<g ref="char:EOLhyphen"/>decay</hi> when she was a Queene, like as when she was brought vp with Him<note n="r" place="margin">
+                  <hi>E<g ref="char:EOLhyphen"/>sth.</hi> 2.20.</note>, who was exceedingly grieued at his Griefe<note n="f" place="margin">Esth. <hi>4.4.</hi>
+               </note>, and procured the Enlarge<g ref="char:EOLhyphen"/>ment and Deliuerance of her kindred with her <hi>Feasts</hi>
+               <note n="t" place="margin">
+                  <hi>Esth.</hi> 4.16.</note>, her <hi>Teares</hi>
+               <note n="u" place="margin">Esth. <hi>8.3.</hi>
+               </note>, and the Hazard of her <hi>Life</hi>
+               <note n="x" place="margin">
+                  <hi>Esth.</hi> 4.11, 16.</note>
+            </p>
+            <p>In regard of her Seruants also, she shall be com<g ref="char:EOLhyphen"/>mended; because she Buildeth her House<note n="y" place="margin">
+                  <hi>Prou.</hi> 14.1.</note>: <hi>Shee is like the Merchants ship, She fetcheth her food from farre</hi>
+               <note n="x" place="margin">
+                  <hi>Prou.</hi> 31.14.</note>, <hi>She giueth meat to her Houshold</hi>
+               <note n="a" place="margin">
+                  <hi>Prou.</hi> 31.15.</note>, <hi>She cloath<g ref="char:EOLhyphen"/>eth them all with Scarlet</hi>
+               <note n="b" place="margin">
+                  <hi>Prou.</hi> 31.21.</note>, <hi>and Shee looketh so well to their wates</hi>
+               <note n="c" place="margin">
+                  <hi>Prou.</hi> 31.27.</note>, that <hi>As the Sunne when it ariseth in the high Heauen; So is her beautie in the Ordering of her House</hi>
+               <note n="d" place="margin">Eccles. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6 16.</hi>
+               </note>.</p>
+            <p>Lastly, because all the Essentiall Glory and Fairenesse, which is to bee found in the whole Church, <hi>The Woman cloathed with the Sunne</hi>
+               <note n="c" place="margin">Reuel. <hi>21.</hi>
+               </note>, as
+<pb n="22" facs="tcp:3036:16"/>that of Iustification &amp; Sanctification &amp;c. belongs to euery Member of the Church<note n="f" place="margin">Gal. <hi>3.28.</hi> Ephes. <hi>4.15.16.</hi> C nt <hi>2.10.</hi>—Cum ipsos cogita<g ref="char:EOLhyphen"/>tis amantes, non v<g ref="char:EOLhyphen"/>rum &amp; Faeminam, sed verbum &amp;c. A<g ref="char:EOLhyphen"/>niman sentatis, o<g ref="char:EOLhyphen"/>portet. Et si Chri<g ref="char:EOLhyphen"/>stum &amp; Ecclesiam di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ero, idem est, ni<g ref="char:EOLhyphen"/>si quod Ecclesiae no<g ref="char:EOLhyphen"/>mine non vna Ani<g ref="char:EOLhyphen"/>ma, sed multarum vnitas, vel potius vnanimitas designatur. S. Bern. s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm. <hi>61.</hi> in Cant.</note>, and cōsequent<g ref="char:EOLhyphen"/>ly to euery <hi>Woman fearing the Lord,</hi> therefore to Gods people she shall be commended, as one of the Hands of the Church <hi>dropping with sweet smelling Mirrhe</hi>
+               <note n="g" place="margin">Cant. <hi>5.5.</hi>
+               </note> As the <hi>Curtaines of Salomon</hi>
+               <note n="h" place="margin">Cant. <hi>1.5.</hi>
+               </note>; As <hi>a Lilly among thornes</hi>
+               <note n="i" place="margin">Cant. <hi>2.2.</hi>
+               </note>; <hi>A Garden inclosed: A Spring shut vp. A Fountaine sealed</hi>
+               <note n="k" place="margin">Cant. <hi>4.12.</hi>
+               </note>.</p>
+            <p>But when shall shee haue all this Praise, and of whom? Not by and by, nor of Euery one<note n="l" place="margin">Luk. <hi>6.26.</hi> Eccles. <hi>15.9</hi>
+               </note>, for Praise is not comely in the mouth of euery one, of euery scoffing <hi>Ishmael.</hi>
+            </p>
+            <p>But first of the Time.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Many when they heare a Promise (and a Pro<g ref="char:EOLhyphen"/>mise I told you at first,<note place="margin">When she shall be Praised.</note> this is) thinke to haue it by and by; but they marke not, that a Promise and the Fruition of it is not all at once. It must be wai<g ref="char:EOLhyphen"/>ted for<note n="m" place="margin">Esay <hi>28.16.30.18.40.31.64.4.</hi> Heb. <hi>10.36, 37, 28.</hi> Hab. <hi>2.3, 4.</hi>
+               </note>, especially this Promise of Praise: <hi>Vntill the Lord come</hi> (as the Apostles limit the Time) <hi>and then,</hi> at his Appearing, <hi>she shall haue praise of God</hi>
+               <note n="n" place="margin">
+                  <hi>1</hi> Cor <hi>4 5.</hi>
+               </note>. <hi>Then at his Appearing</hi>
+               <note n="o" place="margin">
+                  <hi>1</hi> Pet. <hi>1.7.</hi> Et nos ergo nō a nobis lau<g ref="char:EOLhyphen"/>dem exagamus, nec praeripiamus iudicium Dei &amp; praeueniamus sententiam iudicis, sed suo Tempori, suo Iudici reser<g ref="char:EOLhyphen"/>vemus. S. Amb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es. in Luc l. 8. c. 17. tom. 5.2 Tim. 25. Eccles 11.27.28.</note>, <hi>Her Faith shall be found vnto Praise and Honour, and Glory.</hi> Therefore in the mean while, best for her to <hi>Feare the Lord,</hi> and so be praise-worthy, than to be praised for the present.</p>
+            <p n="1">1. Not only because it is safest praising Her as a Master of a ship is (saith S. <hi>Ambrose</hi>
+               <note n="p" place="bottom">Nam si laudari au<g ref="char:EOLhyphen"/>tè Gubernator non potest quam in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortum nauem deduxerit: quomodò laudabis Homine prius quàm in stationem mortis successerit? S. Ambr. de Bono Mort c. <hi>8.</hi> tom. <hi>4.</hi> Merttò ergò differtur, vt se<g ref="char:EOLhyphen"/>quatur foenerata eius Laudatio, cuius dilatto non dispendium; sed incrementum est—Et ideo lau<g ref="char:EOLhyphen"/>datio eius non in exordro; sed in fine est. Nemo enim nisi legitimè certauerit, coronabitur. Ideo{que} sa<g ref="char:EOLhyphen"/>piens t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> id cit: Antè mortem non laudes hominem quemquam. Ratio. Quia in fine hominis nudan<g ref="char:EOLhyphen"/>tur opera eius. Id. Instit. Virg. c. <hi>3.</hi> tom. <hi>1.</hi>
+               </note>
+               <pb n="23" facs="tcp:3036:16"/>is safely arriued in the Hauen, past all danger of shipwracke: or growing more proud by her praise (which many Liuing doe) as <hi>Herod</hi> for one<note n="q" place="margin">Act. <hi>12.21</hi>
+               </note>, and that Philosopher for another, whose soule being before no bigger than a mans finger, became so pust vp and swolne with others commending him, that (as <hi>Arrianus</hi> reports) it grew greater than two Cubits<note n="r" place="margin">Arrian. Epict l. <hi>3.</hi> c. <hi>2</hi>
+               </note>.</p>
+            <p n="2">2. Nor only because actuall praise is in the lips of the praiser, and so a wicked woman may be prai<g ref="char:EOLhyphen"/>sed, and yet not be worthy of it, and a godly wo<g ref="char:EOLhyphen"/>man may be praise-worthy, and yet not haue it, whereas praise-worthinesse is euer in the partie to be praised, and fewest (you know) haue this worth; but many haue praise without it, therefore praise-worthinesse is the Nobler Grace of the two, and consequently best for a Woman to be worthy of praise, though she be not praised for the present.</p>
+            <p n="3">3. But one of the chiefest Reasons is this; be<g ref="char:EOLhyphen"/>cause indeed all our earthly praise is <hi>Laudatur,</hi> that is, for the present; but continueth not. Is, but shall not be. Sometimes a godly woman is commen<g ref="char:EOLhyphen"/>ded, and sometimes she is not. As S. <hi>Paul</hi> praised the <hi>Corinthians</hi>
+               <note n="s" place="margin">
+                  <hi>1</hi> Cor. <hi>11.1, 21.</hi>
+               </note>, <hi>Now I praise you Brethren,</hi> and by and by he saith: <hi>Shall I praise you in this? I praise you not:</hi> whereas This praise here promised so Is, that it <hi>shall be</hi> still, and that cannot be in this Tran<g ref="char:EOLhyphen"/>sitory world; but in Heauen, where Her paise that feareth the Lord for euer, endureth for euer: <hi>Laudabitur, She shall be praised.</hi>
+            </p>
+            <p>The best Time then for commending Her is yet to come, <milestone type="tcpmilestone" unit="unspecified" n="III"/> and that from Him who can best doe it;<note place="margin">Of whom shee shalbe praised.</note>
+               <pb n="24" facs="tcp:3036:17"/>But I must tell you first, this Time should neuer come, could the scoffing <hi>Ishmaels</hi> of our daies be heard railing vpon, iesting at, belying and slande<g ref="char:EOLhyphen"/>ring Her and Him <hi>that feareth the Lord.</hi> It was euer their Deuillish propertie<note n="t" place="margin">
+                  <hi>2</hi> Kings <hi>9.11.</hi> Act. <hi>24.5.</hi> &amp; <hi>26.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Neh. <hi>6 13.</hi>
+               </note> with many disgrace<g ref="char:EOLhyphen"/>full censures to dimme the glory of the children of Light, spitefully to aggrauate their tender frail<g ref="char:EOLhyphen"/>ties, rather than to commend their vnreproueable Graces. So of old they scourged the Primitiue Christians with their viperous, virulent tongues<note n="u" place="margin">Tert. Apolog. c. <hi>7.</hi> &amp;c. Arnob. aduers. Gent. M. Faelix in Octau.</note>; but as Saint <hi>Ierome</hi> thanks God that He was coun<g ref="char:EOLhyphen"/>ted worthy to be hated of the world<note n="x" place="margin">Gratias ago Deo meo, quod dignus sum, quem mundus oderit. S. Ierom. A<g ref="char:EOLhyphen"/>sellae.</note>; so should euery good man and woman, not much trouble themselues for the vniust censures and disconcerts of witlesse and worthlesse prophanenesse; but ra<g ref="char:EOLhyphen"/>ther (as <hi>Paulinus</hi>
+               <note n="y" place="margin">Ephes. <hi>5.15.</hi> Phil. <hi>4.8, 9. 2</hi> Cor. <hi>8.20. 1</hi> Pet. <hi>2.12.</hi> Heb. <hi>11.39.</hi> Eccl. <hi>41.12.</hi> Nec ex nobis scin<g ref="char:EOLhyphen"/>tilla procedat, per quam aduersus nos sinistrae famae flam<g ref="char:EOLhyphen"/>ma confletur—Nos idagamus, vt malè de nobis nemo loqui, absque Mendacio possit. Paulin. epist. ad Celant.</note> exhorts) haue more regard to their good name, lest any sparkle or appearance of euill truly proceed from them, whereby any flame of euill report may be kindled, and so to liue, that none may speake euill of them without lying. For mangre the malice of all Sensualists, the Time will come, when euery man and woman that feareth God, shall haue praise of God<note n="z" place="margin">1 <hi>Cor.</hi> 4.5.</note>, 1 Cor. 4. which is the best praise, when all is done<note n="a" place="margin">2 <hi>Cor.</hi> 10.18. <hi>Iob.</hi> 12.43.</note>, 2 Cor. 10. Yea (Beloued) that you may not count <hi>the Lord slacke</hi> concerning his promise<note n="b" place="margin">2 <hi>Pet.</hi> 3 9.</note>, Saint <hi>Iames</hi> tells you, This <hi>comming of the Lord draweth neere</hi>
+               <note n="e" place="margin">
+                  <hi>Iam.</hi> 5.8, 9.</note>: <hi>Behold the Iudge standeth at the doore, He is readie to iudge the Quicke and the Dead</hi> (saith Saint <hi>Peter</hi>
+               <note n="d" place="margin">1 <hi>Pet.</hi> 4.5.</note>) readie to commend them, whom the world hath con<g ref="char:EOLhyphen"/>demned; and to condemne them, whom world<g ref="char:EOLhyphen"/>lings haue commended: readie to reueale vnto the
+<pb n="25" facs="tcp:3036:17"/>whole world the good workes of the godly, <hi>Hono<g ref="char:EOLhyphen"/>rifico pietatis testimonto,</hi> with an honourable appro<g ref="char:EOLhyphen"/>bation of their blessed godlinesse; &amp; also to reueale vnto the whole world the wicked D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eds of the vn<g ref="char:EOLhyphen"/>godly, <hi>Manifesto impietatis vituperio,</hi> with a publike, and open, vncontrouleable Discommendation of their cursed wickednesse<note n="c" place="margin">Mat. <hi>25.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </note>: yea the Iudge is ready to turne <hi>Laudabitur</hi> into <hi>Laudatur,</hi> her praise wor<g ref="char:EOLhyphen"/>thinesse that feareth Him for euer, into euerlasting Praise; so that should her Husband and Children faile to praise Her, which yet they do not, for they commend Her in the 29. verse of this Chapter, saying: <hi>Many daughters haue done vertuously; but thou excellest them all</hi>
+               <note n="f" place="margin">Prou. <hi>31.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 29.</hi>
+               </note>: or should the Godly cease to praise Her, which they will neuer do either here or in Heauen<note n="g" place="margin">Cant. <hi>6.9.</hi>
+               </note>. Here Her remembrance is so sweet in all their mouthes, that they say:<note n="h" place="margin">
+                  <hi>Eccles.</hi> 39.10 44.15. 49.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. 40.11, 46.11, 12.</note>
+               <hi>Let her Memory be blessed: Let her bones flourish out of her place;</hi> and <hi>Let the name of Her that was honoured be continued vpon her Children</hi>
+               <note n="i" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>: or should Her owne workes giue ouer praising Her in the Gates, which they are forbidden to doe, vers. 31. of this Chap<g ref="char:EOLhyphen"/>ter, yet God himselfe will haue <hi>Her workes follow her to Heauen</hi>
+               <note n="k" place="margin">Reuel. <hi>4.13.</hi>
+               </note>, and <hi>Accepting of Her</hi>
+               <note n="l" place="margin">
+                  <hi>Gen.</hi> 4.4. <hi>Act.</hi> 10 35.1 <hi>Pet.</hi> 2.</note>, and <hi>Them<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Christ Iesus</hi>
+               <note n="m" place="margin">Hebr. <hi>13.15.</hi>
+               </note>
+               <hi>Hee himselfe will praise Her, that hath made Him Her Feare</hi>
+               <note n="n" place="margin">Esai. <hi>8.13.</hi>
+               </note>, <hi>Her praise</hi>
+               <note n="o" place="margin">Deut. <hi>10.21.</hi>
+               </note> saying: <hi>Well done thou good and faithfull seruant, thou hast beene faithfull ouer a few things, I will make thee ruler ouer many things, Enter thou into the ioy of thy Lord</hi>
+               <note n="p" place="margin">Matth, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </note>. Where it is best to leaue Her, euen with her Lord, taking more ioy (as a Schoole-man teacheth tru<g ref="char:EOLhyphen"/>ly) in praising Him, than in contemplating her
+<pb n="26" facs="tcp:3036:18"/>owne praise, in Glorifying God, than in her owne Glorification<note n="q" place="margin">Perfecta Dei lau<g ref="char:EOLhyphen"/>datio magis animā perficit, quàm Dei fruitio, quia magis laetatur is Gloriâ &amp; plus gaudebit de Dei gloriâ &amp; &amp; hono<g ref="char:EOLhyphen"/>re, quàm de suâ Glorificatione, &amp; p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cundabitur in laudando Dominū, quam in considera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>do proprium bonii. Bonau. l. <hi>3.</hi> d. <hi>1.</hi> q. <hi>1.</hi> p. 66. A s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lm. Pro<g ref="char:EOLhyphen"/>solog. c. <hi>15.</hi> &amp; 26.</note>.</p>
+            <p>But though we haue brought a Godly Woman where she would be, to Heauenly Praise, and Ho<g ref="char:EOLhyphen"/>nour, and Glory, and found them by Gods free fa<g ref="char:EOLhyphen"/>uour in Christ giuen vnto Her; yet who is such a Woman? We haue not found Her; and why not yet? Because among other reasons, as Saint <hi>Ierom</hi> was afraid to entreat of the Death of that Venerable Matron <hi>Paula</hi>
+               <note n="r" place="margin">Quid agimus a<g ref="char:EOLhyphen"/>nima? cur ad mor<g ref="char:EOLhyphen"/>tem eius venire for<g ref="char:EOLhyphen"/>midas?—S. Ier. Epitaph. Paulae.</note>; so am I to speake of the Decease of this Honourable Lady. Therefore giue me leaue (beloued) to deferre the vncomfor<g ref="char:EOLhyphen"/>table Passions of her Death, vntill I be a little bet<g ref="char:EOLhyphen"/>ter heartned by relating some of the laudable acti<g ref="char:EOLhyphen"/>ons of her Life.</p>
+            <p>For the subiect then of my Text, I dare say, in regard of the Description thereof,<note place="margin">Application. The Lady de<g ref="char:EOLhyphen"/>ceased. Mulier Timēs Dominum.</note> your owne con<g ref="char:EOLhyphen"/>sciences haue made the Application, and doe wit<g ref="char:EOLhyphen"/>nesse for Her, that She was <hi>A Woman fearing the Lord.</hi> A Woman indeed, &amp; so the <hi>Weaker Vessell</hi>
+               <note n="s" place="margin">1 <hi>Pet.</hi> 3.7.</note>, yet neuerthelesse Honour to be giuen Her in that respect; but rather the more (as Saint <hi>Peters</hi> infe<g ref="char:EOLhyphen"/>rence will allow) because though shee had <hi>This Treasure of the Feare of the Lord in an Earthen and in a Weaker Vessell</hi>
+               <note n="t" place="margin">
+                  <hi>Esai.</hi> 23.6.2 <hi>Cor.</hi> 4 7.</note>, yet Gods strength was made per<g ref="char:EOLhyphen"/>fect in her Weaknesse. And it is S. <hi>Ieroms</hi> rule<note n="u" place="margin">Epist. ad Principi<g ref="char:EOLhyphen"/>am. Gal. <hi>3.28.</hi>—Non consideran<g ref="char:EOLhyphen"/>tes Holdam &amp; An<g ref="char:EOLhyphen"/>nam ac Debboraw, viris tacēntibus pro<g ref="char:EOLhyphen"/>phetasse, &amp; in ser<g ref="char:EOLhyphen"/>uitute Christi ne<g ref="char:EOLhyphen"/>quaquam differen<g ref="char:EOLhyphen"/>tiam Sexuum vale<g ref="char:EOLhyphen"/>re; sed Mentium. S. Ierom, Eustoch.</note>, you should iudge of Vertues, <hi>Non Sexu, sed A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>mo:</hi> Not by the Sex, but by the Minde and con<g ref="char:EOLhyphen"/>stant purpose of a Regenerate Heart: This makes the Difference of force in the seruice of Christ, not either Male or Female.</p>
+            <p>Suruey then (if you please) as briefly as you wil,
+<pb n="27" facs="tcp:3036:18"/>the seuerall workings of Her Godly Feare.<note place="margin">The workings of Godly feare in regard of Her: Husbād</note>
+            </p>
+            <p>First to Her Head, her Subiection and Helpful<g ref="char:EOLhyphen"/>nesse like that of Saint <hi>Augustines</hi> Mother to his Father.<note n="x" place="margin">S. Aug. Confess lib. <hi>9.</hi> cap. <hi>9.</hi>
+               </note>.</p>
+            <p>
+               <note place="margin">Children.</note>To Her Children, her tenderest Affection and Sollicitousnesse to plant <hi>the feare of the Lord</hi> in their hearts, to fit them with worthy Matches out of Religious Families, to adorne her onely Sonne with the richest endowments of Grace and Lear<g ref="char:EOLhyphen"/>ning: Witnesse her Letters to that Learned Pro<g ref="char:EOLhyphen"/>fessour<note n="*" place="margin">Doct <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Rector of Exceter College in <hi>Oxford.</hi>
+               </note> in our famous Vniuersitie, worthy to be kept as a Monument of her truly Noble spirit and Godly Desire (like that of <hi>Gregory Nazianzen's</hi> Sister) to haue the fruit of her Body become the fruit of the Spirit<note n="y" place="margin">Grey. Nazian. in Laudem Gorgon. Orat. <hi>25.</hi>
+               </note>.</p>
+            <p>
+               <note place="margin">Parents.</note>To Her Parents, shee was another <hi>Rachel,</hi> ano<g ref="char:EOLhyphen"/>ther <hi>Marcella</hi>
+               <note n="a" place="margin">S. Ier. ad Princip. Nusquam sine Ma<g ref="char:EOLhyphen"/>tre &amp;c.—</note>.</p>
+            <p>
+               <note place="margin">Kindred.</note>To Her Kindred by mariage another <hi>Ruth,</hi> and to them by bloud another <hi>Hester.</hi>
+            </p>
+            <p>
+               <note place="margin">Servants.</note>To Her Seruants, shee was bountifull in their Health; compassionate (as <hi>Fabiola</hi>
+               <note n="b" place="margin">Id. Epitaph. Fabiola.</note>) in their Sick<g ref="char:EOLhyphen"/>nesse, either of Minde or of Body, prouiding for them (like the Centurion) both spirituall and cor<g ref="char:EOLhyphen"/>porall Physicke.</p>
+            <p>To All, Her whole Deportment was so Louely,<note place="margin">Religieus De<g ref="char:EOLhyphen"/>portmet to all.</note> so sweet, what <hi>by the law of kindnesse in her tongue</hi>
+               <note n="c" place="margin">Prou <hi>31.26.</hi>
+               </note>, Salutations, Gifts, Almes-Deeds, Visitations, In<g ref="char:EOLhyphen"/>uitations, and by other offices of courtesies and Hospitalities, that Her Amiable Behauiour was a powerfull Meanes,<note place="margin">Especially vn<g ref="char:EOLhyphen"/>vnto Gods people.</note> an attractiue Load-stone to draw vnto Her the hearts and loues of as many as knew Her, yea as but heard of Her.</p>
+            <pb n="28" facs="tcp:3036:19"/>
+            <p>But vnto Gods children she euer only afforded the dearest pangs, the highest Degree of her kin<g ref="char:EOLhyphen"/>dest Affection<note n="d" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note>: Their company the most loued, and they Hers. Not so much in regard of Her fa<g ref="char:EOLhyphen"/>uour towards them,<note place="margin">Gal. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.10.1</hi> Pet. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Coloss. <hi>1.4.</hi>
+               </note> which was great; but chiefly by reason of that spiritual Helpe and refreshment, which they might get by conuersing with Her in the choicest passages of Sanctification. For shee had the Art to vphold holy conferences about perplexities of conscience, Relapses into sin, and Remedies against the same: Shee had the skill to beget many ioyfull Meditations of mortifying Grace and euerlasting Glory: She had the Zeale to nourish Heauenly mindednesse, boldnesse in the waies, and cheerefulnesse in the exercises of Religion and Deuotion.</p>
+            <p>Touching Her submission to the Meanes of Sal<g ref="char:EOLhyphen"/>uation: O what delight shee tooke here and in <hi>London,</hi>
+               <note place="margin">Constant vse of the Meanes of Saluation.</note> to heare conscionable and searching Ser<g ref="char:EOLhyphen"/>mons! It was Her onely Pleasure in that Citie (as she professed) to frequent them there; yea what Griefe was it vnto Her (as it was vnto Saint <hi>Am<g ref="char:EOLhyphen"/>brose</hi>) to heare of the Death of any of Gods zea<g ref="char:EOLhyphen"/>lous Ministers<note n="c" place="margin">Paulin. in V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d D. Ambros.</note>?</p>
+            <p>And should I be silent, yet Her Oratory in her house hereby, this Church too (a part whereof her Zeale together with her Honourable Hus<g ref="char:EOLhyphen"/>bands Loue to Gods House newly erected) that Closset also of Hers in <hi>Truro,</hi> yea euery place al<g ref="char:EOLhyphen"/>most would speake aloud of her constant reading, hearing, meditating on the Word, solemne Hu<g ref="char:EOLhyphen"/>miliations, solitary conferences with her God, ser<g ref="char:EOLhyphen"/>uent
+<pb n="29" facs="tcp:3036:19"/>prayers and ciaculations, which (as the swee<g ref="char:EOLhyphen"/>test incense) shee euer and anon sent vp to the Throne of Grace for the pardon of her sinnes, the fauour of God, the spirituall Good of her Dearest Husband, Children, and Gods Church.</p>
+            <p>But adde vnto all these, another more speciall,<note place="margin">Vnfained Re<g ref="char:EOLhyphen"/>solution to mortifie her most preuai<g ref="char:EOLhyphen"/>ling Sinne.</note> essentiall, and superiour working of Her Godly Feare, and that was Her continuall Combating against all sinne, euen Her most commanding sin whatsoeuer that was<note n="f" place="margin">Psal <hi>18.23</hi> Rom. <hi>7.21, 22, 23, 24.</hi>
+               </note>. For there was a time to my knowledge, when after the preaching vnto Her of the power and efficacie of Gods promises, and of Christs Death and Resurrection, for the mortifying and mastering of any bosome and be<g ref="char:EOLhyphen"/>loued sinne, you might easily see in Her, how wil<g ref="char:EOLhyphen"/>lingly she yeelded vnto the Sanctifying worke of the Holy Ghost for the Ouer-comming of her strongest corruptions, how heauily shee was dis<g ref="char:EOLhyphen"/>pleased with relapses into smaller offences of dai<g ref="char:EOLhyphen"/>ly incursion against the generall and constant purpose<note n="g" place="margin">
+                  <hi>Psal.</hi> 119. 6, 8. <hi>Act.</hi> 11 23.</note> of her heart not to sinne in any thing; how faithfully she rested vpon those sweetest<note n="h" place="margin">M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>7.18.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Ioh. <hi>1.9.</hi> Rom. <hi>6.14.</hi> Ez. <hi>36.25. 2</hi> Cor. <hi>12.7.9.</hi>
+               </note> pro<g ref="char:EOLhyphen"/>mises of God (which she confessed she had not erst so well weighed) for the mortifying of speciall in<g ref="char:EOLhyphen"/>firmities, and how vnfainedly shee resolued to set her Faith on worke, to draw not onely assurance of pardon from the Merit of Christs Death and Resurrection; but also that Power and efficacie which is in them, to <hi>Die to Sinne, and Liue to Righ<g ref="char:EOLhyphen"/>teousnesse</hi>
+               <note n="i" place="margin">Rom. <hi>6.4.5,</hi> &amp;c. Vis, inquam, illa Christi mortis nobis communicatur, vt per <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ac Christivim moria<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur peccato, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icut Christus pecca<g ref="char:EOLhyphen"/>to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l mort<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus est, id est, non vt pecca<g ref="char:EOLhyphen"/>tum nobis non im<g ref="char:EOLhyphen"/>putitur, id enim ad Iustificationem per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> sed vt peccat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s iam non s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in no<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> efficax, immo ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ti v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>la Christi, cui per Spiritum Sanctum coniuncti <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, peccatum <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.—p st<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> quia non satis <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> benè agere o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortet, eadem vis illa Christi, quà <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peccati &amp; mortis in carne nostra v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pit Deo—nobiscum communicata facit vt &amp;c. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eza epist. Theolog. <hi>45.</hi> p. <hi>211</hi>
+               </note>
+            </p>
+            <pb n="30" facs="tcp:3036:20"/>
+            <p>This was the Life of this Elect Lady fearing the Lord, and therefore she hath right and interest to all those Honourable Attributes of Praise, which you heard euen now God himselfe giue her in His owne words.</p>
+            <p>But O my Soule what dost thou? Why art thou yet afraid to come to her Death? as if while I held my peace and were busied in Her Praises, Her Death could be deferred? Alâs it could not by all the Meanes that were vsed. For <hi>No man</hi> (saith the Preacher) <hi>hath power ouer the spirit to retaine the spi<g ref="char:EOLhyphen"/>rit</hi>
+               <note n="k" place="margin">Eccles. <hi>8.8.</hi>
+               </note>. Then speake of her Death I must, and yet (to make vse of S. <hi>Ierom's</hi> words in a like case) <hi>Quis possit siccis oculis Paulam narrare morientem</hi>
+               <note n="l" place="margin">S Ierom. Eustoch. Epitaph. Paul.</note>? Who can relate the Death of the Lady <hi>Frances Roberts</hi> without shedding some Teares of Compassion, of Deuotion, yea and of Compunction too<note n="m" place="margin">Neq, p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ū distat inter has l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ymas Deuotionis &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta<g ref="char:EOLhyphen"/>tis <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>q, iam virilis, atque eas quas pri<g ref="char:EOLhyphen"/>me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aetas inter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiae vag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> emi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sit, lachrymas vtiq, poenitentiae &amp; con<g ref="char:EOLhyphen"/>fessionis. V<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nta<g ref="char:EOLhyphen"/>men longè amplius vtrisque procedunt aliae quaedā lachry<g ref="char:EOLhyphen"/>mae, quibus in fundi<g ref="char:EOLhyphen"/>tur sapor v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni. Illas enim lachrymas ve<g ref="char:EOLhyphen"/>rè in v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s mutari dixerim, quae Fra<g ref="char:EOLhyphen"/>ternae Compassionis affectu in feruore pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eut charitatis, pro qua etiae ad ho<g ref="char:EOLhyphen"/>ram tui ipsius im<g ref="char:EOLhyphen"/>memor esse, sobria qua<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etate vi<g ref="char:EOLhyphen"/>deris. S. Bern. in E<g ref="char:EOLhyphen"/>piph. Dom. Serm. 3.</note>? Shee deserues some Teares from vs (Beloued) as well as from the Poore,<note place="margin">Bountie to the Poore.</note> weeping now and shewing the Coats and garments which this <hi>Doreas</hi> made for them, while she was with them,<note n="n" place="margin">Act. 9.36.</note>.</p>
+            <p>But to stop the current of them a little longer. Begin we with Gods mercifull preseruation of Her in <hi>London</hi> from the noysome Pestilence;<note place="margin">Thākfulnesse for Deltue<g ref="char:EOLhyphen"/>rance from the Plague.</note> because she acknowledged it (as was meet) with humble Thankfulnesse<note n="o" place="margin">Psal. 91.7.50.15.33.1.</note> And then remember, that vpon Her returne home, being summoned by sicknesse, by and by she set her <hi>House in order,</hi> like <hi>Hezekiah;</hi> She spake to the Hearts of Her Children, Friends, and Seruants, that were then about Her (like <hi>Ia<g ref="char:EOLhyphen"/>cob</hi>) by putting them in remembrance of Her De<g ref="char:EOLhyphen"/>parture and their Duties: She hungered and thir<g ref="char:EOLhyphen"/>sted
+<pb n="31" facs="tcp:3036:20"/>after the Body and Bloud of Her Dearest Sa<g ref="char:EOLhyphen"/>uiour,<note place="margin">Worthy recei<g ref="char:EOLhyphen"/>uing the Sa<g ref="char:EOLhyphen"/>crament.</note> which shee receiued with Due Examinati<g ref="char:EOLhyphen"/>on<note n="p" place="margin">1 <hi>Cor.</hi> 1.28</note> of Her Knowledge, Faith, Loue and Repen<g ref="char:EOLhyphen"/>tance, with reuerent Gesture, heartie Thankful<g ref="char:EOLhyphen"/>nesse, deuout Attention, and very Fruitfully to the greater strengthning and refreshing of Her Soule then trauelling for the other Life.</p>
+            <p>And now (Beloued) that she lieth on the bed of Languishing, we must not be austere in reprehen<g ref="char:EOLhyphen"/>ding euery Infirmity; but Pitifull in considering the tender frailtie of it.</p>
+            <p>For what though shee were (as Sicke folke are commonly<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Eurip. Orest</note> more Passionate than others,<note place="margin">Passionatnesse by reason of Spiritual and Bodily Diste<g ref="char:EOLhyphen"/>per.</note> yea than Her selfe in Her health, yet if God iudgeth not according to the strange Effects and Symp<g ref="char:EOLhyphen"/>toms of Her sicknesse, not according to the short moment and violent passions of Her Death; but according to the holy Actions of Her Health, the former Affections of Her Heart, and the Generall Course of Her Life<note n="q" place="margin">M<seg rend="sup">r</seg>. <hi>Greenham.</hi> 1. Treat. for Af<g ref="char:EOLhyphen"/>flict. Consc. fol. III. part 2.</note>; then it is our Dutie, not seuerely to censure her passionatenesse, who by reason of the parching Feauer of the Spirit, as well as of the Body, was disquieted in her Imagination (as the Physitian of the body could discerne) though not in her Memory. Consider therefore O Man (as that excellent Physitian of the Soule aduiseth thee<note n="r" place="margin">
+                  <hi>Id</hi> Of Death. fol. 9. part 1.</note>) if thou canst beare with a fraile Body, that thou must much more beare with a fraile Minde and Body too. Consider also O Man, that this her Pettishnesse did more wound her to the heart, than any iniury thou cou'dst presse her with. Neither doe I speake this to nourish passion
+<pb n="32" facs="tcp:3036:21"/>in any, or to proue her Anger to be Sinlesse<note n="f" place="margin">Vitemus ergò aut temperemus ira<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m: ne sit eius a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in Laudibus excep<g ref="char:EOLhyphen"/>tio, aut in <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aggerati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. S. Ambr. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lib. <hi>1.</hi> cap. <hi>21.</hi>
+               </note>; but to be a lesse Sinne, because her Spirituall and Bo<g ref="char:EOLhyphen"/>dily Distemper was so great, or rather because her Faith quenched the flame of this fiery passion in Christs Bloud, resolued and melted her heart into many penitent Teares afterwards.<note place="margin">Repentance for the same.</note> Oh, said she to me, (pressing her with <hi>Dauids</hi> example, <hi>Psal.</hi> 131.) In my Health I could digest any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niury, and dee<g ref="char:EOLhyphen"/>med it base and vngodly, not to be able to doe so; but now (I know not how) me thinkes I am ouer<g ref="char:EOLhyphen"/>tender in bearing them. I am impatient indeed, and then I weepe for my impatiencie. For I know (as she her selfe vrged) <hi>The wrath of Man doth not accomplish the Righteousnesse of God.</hi>
+               <note n="t" place="margin">Iam <hi>1.2.</hi> Psalm. <hi>4.4</hi>
+               </note>.</p>
+            <p>Thus shee was Angrie with her selfe for being Angrie with others, and then (according to Saint <hi>Ambroses</hi> rule) it ceased towards them before the Sunne went downe<note n="u" place="margin">Ephes <hi>4.26.</hi> Vel certe sic: Si <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>as<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mini, vobis <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>asc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mini, quia commoti est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, &amp; non <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecca<g ref="char:EOLhyphen"/>bitis. Qui enim sibi irascitur, quia <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tò cōmotus est, desinit irasci alte<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Id. ibid.</note>; and was not this Holy Re<g ref="char:EOLhyphen"/>uenge on her selfe a true fruit of Euangelicall Re<g ref="char:EOLhyphen"/>pentance? 2 <hi>Cor.</hi> 7.11.</p>
+            <p>
+               <note place="margin">
+                  <hi>Her Agonie.</hi>
+               </note>But aye me! me thinkes I now heare her groa<g ref="char:EOLhyphen"/>ning vnder the dolefull pangs of Death, vnder those pangs of which shee had foretold saying: I shall suffer much more ere I goe hence. And can any haue the heart to heare her groaning pangs, without renting his owne heart from his darling pleasure? without lamenting his owne sinnes, which vnlesse he forsake betimes, will bring him to euerlasting Burnings<note n="x" place="margin">
+                  <hi>Ezek</hi> 18.13, 30.</note>? or without learning to compassionate euery weake one, to assist any one yeelding vp the Ghost, because (as Saint <hi>Ambrose</hi> giues the reason<note n="y" place="margin">— Si quem vide<g ref="char:EOLhyphen"/>rimus paupere mo<g ref="char:EOLhyphen"/>riturum, sumptu iu<g ref="char:EOLhyphen"/>uemus, &amp; dicat v<g ref="char:EOLhyphen"/>nusq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sq, nostr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m: Benedictio moritu<g ref="char:EOLhyphen"/>ri in me veniat: Si que v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>derimus de<g ref="char:EOLhyphen"/>bilem, non desera<g ref="char:EOLhyphen"/>mus, si quem in ex<g ref="char:EOLhyphen"/>tremis posit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, non relinquam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. S. Am<g ref="char:EOLhyphen"/>bros. de Bono Mort. cap. <hi>8.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. <hi>4.</hi>
+               </note> the holy Peophet <hi>Iob</hi> desired
+<pb n="33" facs="tcp:3036:21"/>the Blessing of one, that lyes a Dying: <hi>Benedictio morituri, in me veniat: Let the blessing of him that is readie to die, come vpon me!</hi>
+            </p>
+            <p>Let vs then, not yet, leaue this Departing Saint. For in the midst of this her Agonie, after shee had layen groaning many houres without any articu<g ref="char:EOLhyphen"/>late or distinct speech, yet vpon triall made of Her sense and memory by demanding of Her, whether she would haue prayers made for Her,<note place="margin">Deuotion <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Her Death.</note> she answer<g ref="char:EOLhyphen"/>red plainly: With all my heart, pray, pray. And then as <hi>Gregory Nazianzen</hi>
+               <note n="a" place="margin">Orat. 28. de Fu<g ref="char:EOLunhyphen"/>nere Patris. Tom</note> reports of his Father, that though He was daily, yea hourely, in great paine before his Death, yet He was euer still and quiet from paine, onely while Diuine Seruice was saying; so this Deuout Lady forgetting (as it were) Her former Groanings, did listen attentiuely to the prayers that were made for Her, without fet<g ref="char:EOLhyphen"/>ching so much as one sob during that time. And afterwards rehearsing distinctly part of the Lords Prayer, you might heare Her, when S. <hi>Stephens</hi> Vision an last words<note n="b" place="margin">
+                  <hi>Act.</hi> 7.53, 56, 59.</note> were read vnto Her, re<g ref="char:EOLhyphen"/>peat very often these last words of Her Sauiour<note n="c" place="margin">
+                  <hi>Luke</hi> 23.46.</note>: <hi>O Heauenly Father into thy hands I commend my spirit.</hi> Thus on a sudden I haue told you how she <hi>Dyed in the Lord</hi>
+               <note n="*" place="margin">Reuel. <hi>14.13.</hi>
+               </note>, and is <hi>with Christ</hi>
+               <note n="''" place="margin">
+                  <hi>Phil.</hi> 1.23.</note>
+            </p>
+            <p>And though we saw her afterwards mouing her lips; but heard not her Voice, no more than they that were at Saint <hi>Ambroses</hi> Death did heare his Voice; but only saw his lips moue<note n="d" place="margin">Paulin. in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ambros Vita.</note>; yet we must not thinke <hi>The Spirit of strength</hi>
+               <note n="e" place="margin">Esai. <hi>11.2.</hi>
+               </note>, of <hi>Prayer</hi> and <hi>Grace</hi>
+               <note n="f" place="margin">Zach. <hi>12.10</hi>
+               </note>, is then onely strong, when we heare a Dy<g ref="char:EOLhyphen"/>ing Saint pray, because Christs Spirit cries in
+<pb n="34" facs="tcp:3036:22"/>Gods Children, <hi>Abba, Father</hi>
+               <note n="g" place="margin">Gal. <hi>4.6.</hi>
+               </note> with Vnutterable Groanings<note n="h" place="margin">Rom. <hi>8.26.</hi>
+               </note> which we cannot heare, and there<g ref="char:EOLhyphen"/>fore I doubt not, but this Elect Lady cried loudest in Gods eares, when we heard not her words; and why may we not thinke now, our sinnes hindered vs from hearing them? I am sure, heretofore she hath spoken againe and againe many Heart-pier<g ref="char:EOLhyphen"/>cing speeches to deterre from Sinne, and to allure to Holinesse of Life. If she be not hearkened to now, henceforth wee shall heare Her speake no more.<note n="t" place="margin">
+                  <hi>1</hi> Tim. <hi>5.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note>
+               <hi>I charge you therefore before God and the Lord Iesus Christ, and the Elect Angells:</hi> you (I say) I charge whomsoeuer shee hath iustly reproued for any Sin, that you forsake those Sins; and whomso<g ref="char:EOLhyphen"/>euer she hath zealously exhorted to holy Duties, that you performe those holy Duties, for hence<g ref="char:EOLhyphen"/>forth you shall heare Her speake no more.</p>
+            <p>But why should I detaine thee (Honourable Lady) any longer?<note place="margin">Conclusion.</note> Or what doe you (Beloued) expect more?<note place="margin">Sed quid <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go te mo<g ref="char:EOLhyphen"/>rer Frater? quid ex<g ref="char:EOLhyphen"/>pectem? vt nostra tecum cōmoriatur et quasi consepelia<g ref="char:EOLhyphen"/>tur oratio? S. Ambr. de Obitu fratris. Tom <hi>3.</hi>
+               </note> That our speech also should Die to<g ref="char:EOLhyphen"/>gether with Hers, and (as it were) be Buried toge<g ref="char:EOLhyphen"/>ther with Her. O my Blessed Brethren, suffer nei<g ref="char:EOLhyphen"/>ther this Godly Lady, nor Gods word to depart so dishonourably from you.</p>
+            <p>Suffer not Her so to depart from you; <milestone type="tcpmilestone" unit="unspecified" n="I"/> but let her euer liue in your breasts by Esteeming Her ve<g ref="char:EOLhyphen"/>ry highly in loue for Her workes sake,<note place="margin">Imitation of Her Vertues.</note> by Comme<g ref="char:EOLhyphen"/>morating Gods Graces in Her; but aboue all by Imitating her Faith and Vertues<note n="l" place="margin">Ideo laude oris ad Hominem vti<g ref="char:EOLhyphen"/>mur, vt alios apud quos laudatur, in bonam opinionem, &amp; Reuerentiam, &amp; Imitationem ipsius inducamus. Thom. Aquin. <hi>2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </note>
+               <pb n="35" facs="tcp:3036:22"/>from you; because she is <hi>with Christ, which is best of all</hi>
+               <note n="k" place="margin">Phil <hi>1.23.</hi>—<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Christum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sdimus cum euocato<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quos<g ref="char:EOLhyphen"/>que ab illo quasi miserandos non <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quani<g ref="char:EOLhyphen"/>mit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r accipimu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cupio, inquit Apo<g ref="char:EOLhyphen"/>stolus, recipitam <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ergo votum si alios conse<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>os impatient<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r dolemus, ipsi consequi n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lumus. Tertul. de Patient. cap. 9. Temperet <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dilecti Gaudiu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>itiam desolatorum, &amp; tole<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> fiat nobis, q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Nob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scum non est, quia cum Deo est. Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>; because she is <hi>Taken away,</hi> not from you; but <hi>from the euill to come, Esai.</hi> 57.1. From you shee is not Taken, but from seeing the plagues and mi<g ref="char:EOLhyphen"/>series of this wretched world, yea from seeing the future Deaths of you, Her Dearest friends<note n="l" place="margin">Non enim nobis er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptus es, sed periculis.—rap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us est ne totius orbis excidia, mundi finem, propinq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ra, &amp;c. S. Ambros. de Obitu Fra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. fol. <hi>17.</hi>
+               </note>, for whom she would haue wept full bitterly; but you haue greater Cause, if you will heare S. <hi>Ambrose</hi> and S. <hi>Ierome</hi> comforting themselues in a like case, to Reioyce<note n="m" place="margin">Laetandum est enim magis, qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d talem fra<g ref="char:EOLhyphen"/>trem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abuerim, quàm dolendum, quòd fratrem amiserim. Illud enim munus, hoc <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bitum est. Idem ibid. fol. <hi>13.</hi>
+               </note> and to giue God thankes<note n="n" place="margin">Non maeremus quod talem amisimus, sed gratias agimus, quòd habuimus, immo habe<g ref="char:EOLhyphen"/>mus. S. Ierom. Epitaph. Paulae.</note>, that you Haue had Her, nay that you Haue Her, if so be you follow Her good example, and represent her to the life by your Godly Life.</p>
+            <p>To conclude: I beseech you all (Blessed Bre<g ref="char:EOLhyphen"/>thren) Suffer not the Word of God, which you haue heard this day, for want of the Feare of God, which is <hi>The firmest foundation of Gods word</hi>
+               <note n="o" place="margin">Basis quaedam Verbi est T<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or sanctus. Si<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t enim simula<g ref="char:EOLhyphen"/>ebrum aliquod in Basi statu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur—ita verbum Dei in Timore Sancto <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> statu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur, forti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adi<g ref="char:EOLhyphen"/>catur, hoc est, in pectore timentis Dominum—S. Ambros. in Psal. <hi>118.</hi> Serm. <hi>5.</hi>
+               </note>, <milestone type="tcpmilestone" unit="unspecified" n="II"/> to vanish into aire, into nothing,<note place="margin">Practise of Gods word.</note> to rebound from your flintie hearts (as a shaft shot against a wall of Adamant<note n="p" place="margin">Iam. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.22.</hi> Zach. <hi>7.12.</hi>
+               </note>;) but in Gods Name, Let the Sword of Gods Spirit sunder euery one of our minion sinnes from our bosomes: Let Gods pretious pro<g ref="char:EOLhyphen"/>mise here of praising a <hi>Woman that feareth the Lord,</hi> feare vs from our strongest corruptions. <hi>At{que} vti<g ref="char:EOLhyphen"/>nam praeconia faeminarum, imitarentur viri.</hi> And I may well wish with Saint <hi>Ierome,</hi> that Men would emulate and imitate Women in their deserued at<g ref="char:EOLhyphen"/>tributions
+<pb n="36" facs="tcp:3036:23"/>of Praise<note n="q" place="margin">S. Ierom. epist. ad Furiam</note> Lastly, if you desire to know, <milestone type="tcpmilestone" unit="unspecified" n="III"/> besides this motiue of obtaining Heauenly praise,<note place="margin">Means to God<g ref="char:EOLhyphen"/>ly Feare.</note> what other Meanes you should vse to get, keepe and in create such a godly Feare in you, then consider the examples of Gods dreadfull iudge<g ref="char:EOLhyphen"/>ments<note n="r" place="margin">1 <hi>Cor.</hi> 10.11. Reuel <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</hi>
+               </note> on them, that Feare Him not, yea on Christ Iesus Himselfe pursued for our sins<note n="s" place="margin">Esa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>57.11.</hi> &amp; <hi>53.5.</hi> Mat. <hi>27.46.</hi>
+               </note> to the fulnesse of Bitternesse by the iustice of God, con<g ref="char:EOLhyphen"/>sider that first. Then remember your owne Deaths to haue them before you<note n="t" place="margin">Eccles. <hi>3.14.</hi> Iob <hi>7.1.</hi> Psal. <hi>39.4.</hi> &amp; <hi>90.12.</hi>
+               </note>, remember your strict Accounts to be made<note n="u" place="margin">2 <hi>Cor.</hi> 5.10. <hi>Matth</hi> 12.36.</note> remember the restlesse Terrour of Conscience<note n="x" place="margin">
+                  <hi>Rom.</hi> 2 15. <hi>Reu.</hi> 6.16.</note> which followes the im<g ref="char:EOLhyphen"/>penitent, and then or neuer you will <hi>Feare the Lord Greatly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> as <hi>Obadiah</hi> and this Blessed Lady did. Be not deceiued (my Brethren) after all this Hea<g ref="char:EOLhyphen"/>ring,<note place="margin">So Great a Feare as must feare vs from our Bosome Sinne.</note> it is not a Little Feare will serue the turne.<note place="margin">Psal. <hi>18.23.</hi> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>8.13.</hi>
+               </note> For to Feare God but a little (as <hi>Fulgentius</hi> saith) is to contemne Him very much<note n="y" place="margin">—Hunc si quis parum metuit, val<g ref="char:EOLhyphen"/>de contemnit—b. Fulg. de Myst. Me<g ref="char:EOLhyphen"/>diat. ad Trasim. l. <hi>2.</hi> pag. <hi>215.</hi>
+               </note>. It must bee at least so Great a Feare, as must feare you from your Greatest, your Sweetest Sinne whatsoeuer that be, else if you Die in it<note n="a" place="margin">Si in solo vno pec<g ref="char:EOLhyphen"/>cato decesserit Ho<g ref="char:EOLhyphen"/>mo, irreuocabiliter mittitur in ignem aeternum—G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son. <hi>2.</hi> p. de Mendicit. Spirit. lit. D &amp; H. part. <hi>3.</hi>
+               </note> without Repentance (which God forbid) your <hi>Worme shall not die, neither shall your fire be quenched, and you shall be,</hi> not a praise, but <hi>an Abhorring to all flesh,</hi> the last verse of the Pro<g ref="char:EOLhyphen"/>phet <hi>Esay</hi> with <hi>Iame,</hi> 2.10.<note n="b" place="bottom">Ex parte enim Auersionis di<g ref="char:EOLhyphen"/>cit Iacobus qui offendit in vno factus est omnium reus, quia scil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cet vno peccato pecca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>do incur<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t poenae reatum, ex hoc, quod <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emnit Deum, ex cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us contemptu prouenit omnium peccatorū reatus. Aquin. <hi>12.</hi> q. <hi>73.</hi> a.1 ad <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in. Peccatum enim remitti non potest, quam disi Voluntas peccato adheret. Idem. p. <hi>3.</hi> q. <hi>87.</hi> a. <hi>1.</hi> c. &amp; q. <hi>86.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c. V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de non potest esse vere <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>itens, qui de vno peccato <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nitet, &amp; non de alio. Si enim displiceret <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> illud peccatum, quia est contra Deum super omnia dilectum—Sequeretur, quod de omnibus peccat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> poe<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Id. q. <hi>8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> a. <hi>3.</hi> c.</note>, and <hi>EZekiel.</hi> 18. 10, 11, 13.</p>
+            <pb n="37" facs="tcp:3036:23"/>
+            <p>Knowing therefore (as Saint <hi>Paul</hi> concludes<note n="c" place="margin">2 Cor. 5.10</note>) <hi>the terrour of the Lord, we perswade you</hi> (Blessed Bre<g ref="char:EOLhyphen"/>thren <hi>to feare God</hi> Greatly, and to <hi>Giue Glory vnto Him</hi>
+               <note n="d" place="margin">Reuel. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </note>; then you <hi>shall haue praise of Him,</hi> then hee <hi>will glorifie</hi> you; and to say no more than this (with the Prophet <hi>Ieremie</hi>
+               <note n="e" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>, which will make the Fear<g ref="char:EOLhyphen"/>lesse Sinner inexcusable: <hi>Who would not feare thee O Lord, thou King of Nations, thou King of Saints?</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/>
+               <note place="margin">
+                  <hi>Reasons to feare the Lord.</hi>
+               </note> 1. <hi>For thou onely art Holy:</hi> 2. <hi>For all Nations shall come vnto thee, and worship thee:</hi> 3. <hi>For thy iudge<g ref="char:EOLhyphen"/>ments are made manifest</hi>
+               <note n="f" place="margin">Reuel <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.4</hi>
+               </note>: 4. <hi>For there is none like vnto thee, that pardoneth Iniquitie, and passeth by the Transgression of the remnant of thy Heritage</hi>
+               <note n="g" place="margin">Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.18.</hi>
+               </note>? <milestone type="tcpmilestone" unit="unspecified" n="VI"/> Who would not Feare Thee such an <hi>Almightie,</hi>
+               <note place="margin">Prayer for Godly Feare.</note>
+               <hi>All-see<g ref="char:EOLhyphen"/>ing, Iust, Mercifull Lord God? Put thy feare therefore in our Hearts</hi> (as thou hast promised<note n="h" place="margin">Ier. <hi>32.39</hi>
+               </note>) <hi>that wee may neuer depart from thee;</hi> but clinging insepara<g ref="char:EOLhyphen"/>bly by a liuely faith, vnto the bleeding wounds of our Blessed Redeemer, may without all slau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh <hi>Feare</hi>
+               <note n="i" place="margin">Si es<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Christum, vt <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>uentum <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> est, &amp; nescio vtrum verū, quem d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> veniat, orare, Veniat <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> of Death and Iudgement, Louingly<note n="k" place="margin">2 <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 4.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ap<g ref="char:EOLhyphen"/>peare before thy Iudgement-seat, and without de<g ref="char:EOLhyphen"/>sperate <hi>Crying to the mountains and rocks Fall on vs</hi>
+               <note n="l" place="margin">Reuel. <hi>6.16.</hi>
+               </note>, may ioyfull heare Thee say vnto vs: <hi>Come ye Bles<g ref="char:EOLhyphen"/>sed of my Father, Inherit the Kingdome prepared for you from the foundation of the world.</hi>
+               <note n="m" place="margin">Matth. <hi>25.34.</hi>
+               </note>.</p>
+            <p>Which God grant vnto vs all, for the All-suffi<g ref="char:EOLhyphen"/>cient Merits of his Dearest Sonne, the Sweet Lord Iesus: To whom with Himselfe and the Holy Spi<g ref="char:EOLhyphen"/>rit be ascribed <hi>All Praise, Honour, Glory, Power, Do<g ref="char:EOLhyphen"/>minion and Maiestie, now and euer. Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
